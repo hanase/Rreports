@@ -1,0 +1,7 @@
+2000 2010
+number_of_households = large_area.aggregate(urbansim_parcel.zone.number_of_households, intermediates=[faz])
+0.892129507261 49.8380126953
+number_of_jobs = large_area.aggregate(urbansim_parcel.zone.number_of_jobs, intermediates=[faz])
+2.74093325732 103.846076965
+population = large_area.aggregate(urbansim_parcel.zone.population, intermediates=[faz])
+-0.59474056768 120.772415161

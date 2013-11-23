@@ -1,0 +1,7 @@
+2000 2010
+number_of_households = faz.aggregate(urbansim_parcel.zone.number_of_households)
+0.176200450896 13.8475933075
+number_of_jobs = faz.aggregate(urbansim_parcel.zone.number_of_jobs)
+0.894360356029 46.1937294006
+population = faz.aggregate(urbansim_parcel.zone.population)
+-0.2966892354 39.3915367126
