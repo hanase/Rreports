@@ -4,8 +4,8 @@ runs <- c(219, 245) # runs to include
 ci.run <- c(245) # which run has confidence intervals 
 			     # (only the last one is included in the table)
 show.median <- FALSE
-ci.run.name <- list("235" = 'MRr')
-ref.run <- c('219_rb3', '245ref') # refined values (black dots) 
+ci.run.name <- list("235" = 'MRr') # only needed if different from run number
+ref.run <- c('219_fpp', '245_fc_ref') # refined values (black dots) 
 ref.names <- c('ref 219', 'ref 245')
 refining <- c(219, 245)
 ref.cols <- c('black', 'red')
@@ -28,7 +28,8 @@ output.file.name <- paste(geography, 'report_', paste(runs, collapse='_'),
 
 years <- c(2000, 2010, 2020, 2025, 2030, 2035, 2040) # for plots
 years.for.table <- seq(2000, 2040, by=10)
-years.for.refinement <- list('219_rb3'=c(2020, 2030, 2040), '245ref'=c(2020, 2030, 2040))
+years.for.refinement <- list('219'=c(2020, 2030, 2040), '245'=c(2020, 2030, 2040))
+show.all.refined.years <- TRUE
 
 ###### END USER SETTINGS ############
 
@@ -102,11 +103,13 @@ for (what in indicators) {
 			ids.ref[[what]][[run]] <- data[,1]
 			sim.ref[[what]][[run]] <- sim.ref[[what]][[run]][order(ids.ref[[what]][[run]]),, drop=FALSE]
 			ids.ref[[what]][[run]] <- sort(ids.ref[[what]][[run]])
-			for (i in 1:ncol(sim.ref[[what]][[run]])) {
-				coln <- colnames(sim[[what]][[refining[irun]]])
-				unref <- sim[[what]][[refining[irun]]][,which(as.integer(substr(coln, nchar(coln)-3, nchar(coln)))==c(2020,2030,2040)[i])]
-				diffs <- abs(sim.ref[[what]][[run]][,i] - unref)
-				sim.ref[[what]][[run]][diffs <= unref/100,i] <- NA
+			if(!show.all.refined.years) {
+				for (i in 1:ncol(sim.ref[[what]][[run]])) {
+					coln <- colnames(sim[[what]][[refining[irun]]])
+					unref <- sim[[what]][[refining[irun]]][,which(as.integer(substr(coln, nchar(coln)-3, nchar(coln)))==c(2020,2030,2040)[i])]			
+					diffs <- abs(sim.ref[[what]][[run]][,i] - unref)
+					sim.ref[[what]][[run]][diffs <= unref/100,i] <- NA
+				}
 			}
 		}
 	}
@@ -192,11 +195,11 @@ for(geo in sort(ids[[indicators[1]]][[runs[1]]])) {
 			for(irun in 1:length(ref.run)) {
 				refidx <- which(ids.ref[[what]][[ref.run[irun]]]==geo)
 				datafrs <- rbind(datafrs, 
-							data.frame(run=rep(ref.names[irun],3), Time=years.for.refinement[[ref.run[irun]]], 
+							data.frame(run=rep(ref.names[irun],3), Time=years.for.refinement[[as.character(refining[irun])]], 
 								amount=as.numeric(sim.ref[[what]][[ref.run[irun]]][refidx,]),
 								CI.low=NA, CI.high=NA))
 				tabDF[[ref.names[irun]]] <- rep(NA, nrow(tabDF))
-				tabDF[[ref.names[irun]]][is.element(tabDF[,1], years.for.refinement[[ref.run[irun]]])] <- sim.ref[[what]][[ref.run[irun]]][refidx,]
+				tabDF[[ref.names[irun]]][is.element(tabDF[,1], years.for.refinement[[as.character(refining[irun])]])] <- sim.ref[[what]][[ref.run[irun]]][refidx,]
 				ref.table.columns <- c(ref.table.columns, ref.names[irun])
 			}
 		}
