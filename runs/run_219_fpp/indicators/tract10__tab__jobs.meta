@@ -1,0 +1,18 @@
+<version>1.0</version>
+<Table>
+	<attributes>['jobs=tract10.aggregate(urbansim_parcel.parcel.number_of_jobs)']</attributes>
+	<dataset_name>tract10</dataset_name>
+	<years>[2020, 2030, 2040]</years>
+	<date_computed>2014-03-11 09:33:44</date_computed>
+	<name>jobs</name>
+	<operation>None</operation>
+	<storage_location>J:\Projects\UrbanSim\NEW_DIRECTORY\urbansim_cache\psrc_parcel\runs\FPP_July_2013\final\run_219_refinements_all_decades_FINAL_LUF_Release_Version\indicators</storage_location>
+	<output_type>tab</output_type>
+	<source_data>
+		<cache_directory>J:\Projects\UrbanSim\NEW_DIRECTORY\urbansim_cache\psrc_parcel\runs\FPP_July_2013\final\run_219_refinements_all_decades_FINAL_LUF_Release_Version</cache_directory>
+		<comparison_cache_directory></comparison_cache_directory>
+		<run_description>Tract Level Estimates</run_description>
+		<years>[2020, 2030, 2040]</years>
+		<package_order>['psrc_parcel', 'urbansim_parcel', 'psrc', 'urbansim', 'opus_core']</package_order>
+	</source_data>
+</Table>
