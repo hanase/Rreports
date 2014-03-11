@@ -1,6 +1,5 @@
 ##### BEGIN USER SETTINGS ######
 runs <- c(219, 245) # runs to include
-#runs <- c(219, 235)
 ci.run <- c(245) # which run has confidence intervals 
 			     # (only the last one is included in the table)
 show.median <- FALSE
@@ -16,7 +15,7 @@ ref.cols <- c('black', 'red')
 sim.dir <- file.path(getwd(), 'runs') 
 sim.prefix <- 'run_' # name of the run sub-directory without the run number, e.g. 'run_' for directory run_199
 
-geography <- 'city'
+geography <- 'tract10'
 geo.id <- paste0(geography, '_id')
 
 # Directory containing confidence intervals
@@ -115,8 +114,8 @@ for (what in indicators) {
 	}
 }
 
-geo.names <- data.frame(read.table(file.path(wrkdir, 'data', 'cities.tab'), sep='\t', header=TRUE))
-geo.names <- geo.names[,c(1, 3)]
+geo.names <- data.frame(read.table(file.path(wrkdir, 'data', 'tract10s.csv'), sep=',', header=TRUE))
+geo.names <- geo.names[,c(1, 2)]
 colnames(geo.names) <- c('id', 'name')
 
 file.append <- FALSE
@@ -260,7 +259,8 @@ for(geo in sort(ids[[indicators[1]]][[runs[1]]])) {
 				 gtab[[indicators[2]]], g[[indicators[2]]],
 				 gtab[[indicators[3]]], g[[indicators[3]]],
 				ncol=2, 
-				main=textGrob(paste(geo, '-', geo.names[geo.names[,'id']==geo,'name']), 
+				main=textGrob(geo.names[geo.names[,'id']==geo,'name'],
+						#paste(geo, '-', geo.names[geo.names[,'id']==geo,'name']), 
 						gp=gpar(fontsize=14,fontface="bold"), 
 						just=c('center', 'top')),
 				heights=unit(0.33, "npc"),
