@@ -1,3 +1,8 @@
+# Script for generating R report on faz level
+# Hana Sevcikova, PSRC
+# March, 2014
+#
+
 ##### BEGIN USER SETTINGS ######
 #runs <- c(219, 223, 235) # runs to include
 runs <- c(219, 245)

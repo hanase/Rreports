@@ -1,3 +1,8 @@
+# Script for generating	R report on tract level
+# Hana Sevcikova, PSRC
+# March, 2014
+#
+
 ##### BEGIN USER SETTINGS ######
 runs <- c(219, 245) # runs to include
 ci.run <- c(245) # which run has confidence intervals 
