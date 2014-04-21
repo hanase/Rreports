@@ -6,16 +6,21 @@
 ##### BEGIN USER SETTINGS ######
 #runs <- c(219, 223, 235) # runs to include
 runs <- c(219, 245)
+runs <- c(223, 245, 2)
 ci.run <- c(245) # which run has confidence intervals 
 			       # (only the last one is included in the table)
+#ci.run <- c()
 show.median <- FALSE
 ci.run.name <- list("235" = 'MRr') # only needed if different from run number
 #ci.run.name <- list("245" = 'MRr245')
 
 #ref.run <- c('ref219', 'ref_mfsf219') # refined values (black dots) 
 ref.run <- c('219_fpp', '245_fc_ref')
-ref.names <- c('ref 219', 'ref 245')
+ref.run<-c('245_fc_ref')
+#ref.names <- c('ref 219', 'ref 245')
+ref.names <- c('ref 245')
 refining <- c(219, 245)
+refining <- c(245)
 ref.cols <- c('black', 'red')
 aggregate.to.large.area <- FALSE
 
@@ -203,7 +208,7 @@ for(faz in sort(fazids[[indicators[1]]][[runs[1]]])) {
 			colnames(this.tabdata) <- c(paste('run', run), 
 										paste('low', run), paste('high', run))
 			run.table.columns <- c(run.table.columns, paste('run', run))
-			if(!(runs[irun] == ci.run[length(ci.run)]) && is.null(this.data.med)) {
+			if(length(ci.run)>0 && !(runs[irun] == ci.run[length(ci.run)]) && is.null(this.data.med)) {
 				this.tabdata <- this.tabdata[,1, drop=FALSE]
 			} else last.table.columns <- c(paste('low', run), paste('high', run))
 			tabDF <- cbind(tabDF, this.tabdata)
