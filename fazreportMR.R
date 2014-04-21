@@ -16,7 +16,7 @@ ci.run.name <- list("235" = 'MRr') # only needed if different from run number
 
 #ref.run <- c('ref219', 'ref_mfsf219') # refined values (black dots) 
 ref.run <- c('219_fpp', '245_fc_ref')
-ref.run<-c('245_fc_ref')
+ref.run<-c('245_mr1')
 #ref.names <- c('ref 219', 'ref 245')
 ref.names <- c('ref 245')
 refining <- c(219, 245)
