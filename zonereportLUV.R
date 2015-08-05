@@ -5,7 +5,8 @@
 
 ##### BEGIN USER SETTINGS ######
 #runs <- c(114, 113, "245mr1") # runs to include
-runs <- c(139, 138, 133)
+runs <- c(142, 138, 133, 113)
+runs <- c(142, 138)
 
 
 # Directory containing the runs with indicators. 
@@ -19,7 +20,7 @@ not.all.years <- c() # if show.all.years is TRUE, put here runs that are excepti
 
 geography <- 'zone'
 geography.id <- paste0(geography, '_id')
-output.file.name <- paste(geography, 'reportLUVcomm_', if(show.all.years) 'allyears' else '', '_', paste(runs, collapse='_'), sep='')
+output.file.name <- paste(geography, 'reportLUVcomm_', if(show.all.years) 'allyears_' else '', paste(runs, collapse='_'), sep='')
 
 years <- c(2000, 2010, 2020, 2025, 2030, 2035, 2040) # for plots
 years <- c(2000, seq(2010, 2040, by=5))

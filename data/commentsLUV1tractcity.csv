@@ -1,0 +1,208 @@
+"Jurisdiction"	"TAZ"	"county"	"tract_usim"	"Tract"	"HH_LUV_40"	"HH_Comment_40"	"Emp_LUV_40"	"Emp_Comment_40"	"Comment"	"tract_6_digit"	"tractcity_id"
+		"33"		"022803Bellevue"	43	22	736	487		"022803"	270
+		"33"		"022901Bellevue"	3991	3853	3409	2835		"022901"	272
+		"33"		"022901Bellevue"	1308	1144	606	581		"022901"	272
+		"33"		"023000Bellevue"	2194	2881	2611	2480	"New development in BelRed under construction or in permit review"	"023000"	278
+"Burien"		"33"	"33026400"	"026400Burien"	885	1085	645	845	"High density multi-family zoning available. On Jobs: this field was suppressed, burien indicated 200 growth"	"026400"	413
+"Burien"		"33"	"33026802"	"026802Burien"	2093	1801	462	462	"Limited multi-family lots and small lot sizes. No job chagne"	"026802"	427
+"Burien"		"33"	"33027000"	"027000Burien"	1855	1422	228	228	"Opportunity for some single-family and limitted multi-family zoned land. No job chagne"	"027000"	429
+"Burien"		"33"	"33027100"	"027100Burien"	1722	1622	522	522	"Single-family and lower density multi-family available. No job chagne"	"027100"	431
+"Burien"		"33"	"33027400"	"027400Burien"	2477	2239	2240	3040		"027400"	438
+"Burien"		"33"	"33027500"	"027500Burien"	2160	2078	2419	1619	"Adjusted down to reflect more contrained housing potential."	"027500"	440
+"Burien"		"33"	"33027600"	"027600Burien"	1729	1887	779	779	"MFR potential along Ambaum Blvd SW. No job change"	"027600"	441
+"Burien"		"33"	"33027800"	"027800Burien"	1440	1382	195	195	"Limted SFR development potential. No job change"	"027800"	444
+"Burien"		"33"	"33027900"	"027900Burien"	4250	5308	9939	9339	"HH change, no job change"	"027900"	446
+"Burien"		"33"	"33028000"	"028000Burien"	1799	1999	1893	2193	"High density multi-family potential. On Jobs: this field was suppressed, burien indicated 300 growth"	"028000"	448
+"Burien"		"33"	"33028402"	"028402Burien"	42	29	860	760	"Single-family prohibited in this area."	"028402"	458
+"Burien"		"33"	"33028500"	"028500Burien"	2343	1923	1038	1238	"Limited multi-family lots and small lot sizes. On Jobs: this field was suppressed, burien indicated 200 growth"	"028500"	461
+"Burien"		"33"	"33028600"	"028600Burien"	153	173	217	217	"Minor adjustment up reflecting SFR housing potential. No job change"	"028600"	464
+"Federal Way"		"53"	"53030004"	"030004Federal Way"	3444	3265	631	304	"PSRC #s appear too high. There are only two small Neighborhood Business (BN) zoned areas in this Census Tract and one small BC zoned strip."	"030004"	541
+"Federal Way"		"53"	"53030005"	"030005Federal Way"	2269	1954	646	507	"PSRC #s appear too high."	"030005"	543
+"Federal Way"		"53"	"53030006"	"030006Federal Way"	2365	4688	5839	6044	"City # seems more accurate. This includes a portion of the CC-C & CC-F"	"030006"	544
+"Federal Way"		"53"	"53030100"	"030100Federal Way"	3294	3012	1175	466	"PSRC #s appear too high. There are only two small Neighborhood Business (BN) zoned areas in this Census Tract."	"030100"	546
+"Federal Way"		"53"	"53030201"	"030201Federal Way"	2407	2188	1194	487	"PSRC #s appear too high. There is only one small Neighborhood Business (BN) zoned area in this Census Tract."	"030201"	547
+"Federal Way"		"53"	"53030202"	"030202Federal Way"	3015	3165	3608	2960	"PSRC jobs #s appear too high. Even though this is zoned CC-F, there is not much capacity for jobs as much of the  CC-F area west of Pac Hwy \nhas newer development and there is a new mixed-use development under construction. The new area under construction"	"030202"	548
+"Federal Way"		"53"	"53030304"	"030304Federal Way"	2053	1625	3434	3631	"PSRC households appear too high. The majority of the Tract has low density zoning and a large portion is the Hylebos Wetlands.\nThere are also wetlands in Spring Valley and the Gethsemane Cemetery is located within this tract. Jobs might be al little low a"	"030304"	549
+"Federal Way"		"53"	"53030305"	"030305Federal Way"	2590	2172	967	419	"There is not enough capacity to accommodate the PSRC forecasted jobs and households.\n In addition, there is only one small Neighborhood Business (BN) zoned area in this Census Tract."	"030305"	553
+"Federal Way"		"53"	"53030306"	"030306Federal Way"	2313	1883	1641	225	"There is not enough capacity to accommodate the PSRC's forecasted  households.\n There is a small BN-zoned area on the Pierce County line. There should be jobs allocated to this Census Tract."	"030306"	554
+"Federal Way"		"53"	"53030308"	"030308Federal Way"	2552	2221	676	521	"There is not enough capacity to accommodate the PSRC forecasted jobs and households.\n In addition, there is only one small Neighborhood Business (BN) zoned area in this Census Tract."	"030308"	557
+"Federal Way"		"53"	"53030309"	"030309Federal Way"	2701	2428	3414	2038	"PSRC forecasted jobs seem too high. There is limited commercial zoning -- one BN-zoned and one BC-zoned area."	"030309"	558
+"Federal Way"		"53"	"53030310"	"030310Federal Way"	2641	2334	1903	965	"There is not enough capacity to accommodate the PSRC forecasted jobs and households. \n There two Neighborhood Business (BN) zoned areas in this Census Tract."	"030310"	559
+"Federal Way"		"53"	"53030311"	"030311Federal Way"	1761	1610	668	659	"There is not enough capacity to accommodate the PSRC forecasted households."	"030311"	560
+"Federal Way"		"53"	"53030312"	"030312Federal Way"	2196	1936	1640	550	"There is not enough capacity to accommodate the PSRC forecasted jobs and households. \n There are two Neighborhood Business (BN) zoned area in this Census Tract."	"030312"	561
+"Federal Way"		"53"	"53030313"	"030313Federal Way"	2568	3938	12835	13515	"This includes the Commons, which is zoned CC-C; the BC zoned area east of Pac Hwy; and the Federal Way Market Place Shopping Center. St. Francis\n is also located in this Census Tract. PSRC forecasted households and jobs should be increased. The CC-C is the"	"030313"	563
+"Federal Way"		"53"	"53030314"	"030314Federal Way"	2351	2693	6041	4882	"This tract can accommodate more households in the BC zoned areas west of Pac Hwy. \nHowever, it does not have the capacity for the number of jobs forecasted by PSRC."	"030314"	564
+"Federal Way"		"53"	"53030401"	"030401Federal Way"	1440	1086	3663	6597	"This is East Campus which has a lot of capacity for jobs."	"030401"	567
+"Federal Way"		"53"	"53030403"	"030403Federal Way"	620	385	99	228	"Wild Waves Theme Park is located within this Census Tract. There are presently 36 permanent employees and 871 seasonal employees."	"030403"	570
+"Everett"		"61"	"61040100"	"040100Everett"	2545	3534	17041	15438	"ECC, Waterfront Place Central development, student housing potential"	"040100"	826
+"Everett"		"61"	"61040200"	"040200Everett"	3710	4474	3224	4677	"new WSU campus - expansion of ECC to west, student housing potential"	"040200"	828
+"Everett"		"61"	"61040300"	"040300Everett"	1461	1748	3890	3061	"Providence hospital campus"	"040300"	829
+"Everett"		"61"	"61040400"	"040400Everett"	4736	3761	2003	2073		"040400"	830
+"Everett"		"61"	"61040500"	"040500Everett"	1104	1033	1125	3179		"040500"	831
+"Everett"		"61"	"61040700"	"040700Everett"	7831	10627	23525	22024	"Everett Station, dowtown, Riverfront redevelopment"	"040700"	833
+"Everett"		"61"	"61040800"	"040800Everett"	3776	5528	10868	16137		"040800"	835
+"Everett"		"61"	"61040900"	"040900Everett"	2186	1329	447	447		"040900"	836
+"Everett"		"61"	"61041000"	"041000Everett"	4698	4415	7065	6609		"041000"	837
+"Everett"		"61"	"61041100"	"041100Everett"	2833	3233	5095	3287		"041100"	838
+"Everett"		"61"	"61041201"	"041201Everett"	1636	1259	238	238		"041201"	839
+"Everett"		"61"	"61041202"	"041202Everett"	3168	4113	4737	3392		"041202"	840
+"Everett"		"61"	"61041303"	"041303Everett"	3534	1805	0	0	"Supressed - capacity for 3,665 jobs"	"041303"	843
+"Everett"		"61"	"61041304"	"041304Everett"	1665	1161	0	0	"Suppressed - capacity for 20,113 jobs +"	"041304"	844
+"Everett"		"61"	"61041400"	"041400Everett"	3416	2490	2281	2586		"041400"	847
+"Everett"		"61"	"61041500"	"041500Everett"	1568	848	667	667	"steep slopes, streams, floodplain"	"041500"	848
+"Everett"		"61"	"61041601"	"041601Everett"	964	638	795	420		"041601"	850
+"Everett"		"61"	"61041605"	"041605Everett"	1041	1041	953	868		"041605"	852
+"Everett"		"61"	"61041606"	"041606Everett"	985	985	514	514		"041606"	854
+"Everett"		"61"	"61041701"	"041701Everett"	2341	1569	2965	2230	"little capacity"	"041701"	861
+"SnoCo"		"61"	"61041704"	"041704Mill Creek"	948	1348			"2040 households are low by 300 to 500 in this tract. Tract shows a decline in households from 2010 to 2040, including a sizeable decline in TAZ 2475, \n an area with a large number of relatively new apartments near the Mill Creek Town Center."	"041704"	865
+"Everett"		"61"	"61041805"	"041805Everett"	3315	4528	9575	8642		"041805"	867
+"Everett"		"61"	"61041806"	"041806Everett"	3856	2516	3261	2556		"041806"	868
+"Everett"		"61"	"61041808"	"041808Everett"	1286	643	109	52	"Entirely residential and built out."	"041808"	870
+"SnoCo"		"61"	"61041811"	"041811Snohomish Co Urban"	2966				"TAZ 2481 is within the sub-regional center at 128th and I-5. LUV forecast shows a slight decline in households from 2010 to 2040 there. \nWe expect growth of roughly 400 households. The tract level allocation is ok."	"041811"	876
+"Everett"		"61"	"61041901"	"041901Everett"	0	0	0	0	"Suppressed - capacity for 7,005  jobs"	"041901"	879
+"Everett"		"61"	"61041903"	"041903Everett"	3933	3105	2724	2491	"Swamp Creek and wetlands, Large park"	"041903"	882
+"Everett"		"61"	"61041904"	"041904Everett"	2999	4012	2800	2403		"041904"	884
+"Everett"		"61"	"61041905"	"041905Everett"	3280	3472	0	0	"Suppressed - capacity for 1,060 jobs"	"041905"	885
+"Edmonds"		"61"	"61050402"	"050402Edmonds"	3177	3377	3153	3853	"PSRC est doesn't reflect plan/zoning potential. 2040 jobs are low by 500 to 1,000 jobs in this tract.\n In particular, TAZ 2627 shows a large decline from 2010 to 2040. This TAZ includes a hospital and is along the SR 99 transit corridor."	"050402"	906
+"Edmonds"		"61"	"61050500"	"050500Edmonds"	4542	3742	4947	3847	"PSRC est doesn't reflect plan/zoning potential Generally, the dataset estimated too much HH and Job growth downtown and not enough\n in the Swedish Hosptial / Highway 99 area."	"050500"	907
+"Edmonds"		"61"	"61050900"	"050900Edmonds"	1682	2282	1759	2159	"PSRC est doesn't reflect plan/zoning potential"	"050900"	919
+"SnoCo"		"61"	"61051912"	"051912Snohomish Co Urban"			3906		"2040 jobs are low in this tract by roughly 1,500 jobs. This is the main part of the Maltby UGA. Based on TAZ review, 2040 jobs seem low throughout the Maltby UGA."	"051912"	957
+"Mill Creek"		"61"	"61052003"	"052003Mill Creek"	1717	1717	97	97	"Strong. 244 new residential units.  15,000 retail"	"052003"	994
+"Mill Creek"		"61"	"61052004"	"052004Mill Creek"	2897	2897	1139	1139	"Some.  25 new homes.  6,410 sf retail"	"052004"	997
+"Everett"		"61"	"61052104"	"052104Everett"	4	4	496	2424		"052104"	1004
+"Everett"		"61"	"61052105"	"052105Everett"	4	4	0	0	"Suppressed - agricultural floodplain capacity for 0 addit jobs"	"052105"	1009
+"SnoCo"		"61"	"61053301"	"053301Stanwood"			5929		"Job growth in Stanwood concentrated in TAZ 2100. Should it be balanced across the UGA?"	"053301"	1130
+"SnoCo"		"61"	"61053504"	"053504Arlington"	3223	3723			"2040 households are low by roughly 500 in this tract. This tract, and TAZ 2116 in particular, includes a large amount residential capacity in undeveloped land."	"053504"	1136
+"SnoCo"		"61"	"61053802"	"053802Sultan"			3192		"Is there a lot of job growth post-2035 in this tract?"	"053802"	1171
+"Everett"		"61"	"61053803"	"053803Everett"	0	0	52	35	"Lake Chaplain"	"053803"	1172
+"Fife"		"53"	"53060200"	"060200Fife"	3	3	142	20	"Jobs based on SEPA checklist for new Indstl bldg"	"060200"	1177
+"Fife"		"53"	"53070703"	"070703Fife"	13	0	154	0	"All property owned by WSDOT for Hwy 167 extension"	"070703"	1309
+"SnoCo"		"61"	"61940001"	"940001Snohomish Co Rural"			10567		"2040 jobs are low by 3,000 to 4,000 jobs. The total jobs in 2040 in the two tracts on the reservation are lower than the 2030 target for the Tulalip Tribes.\n The shortfall is mostly explained by the huge decline from 2010 to 2040 in TAZ 2172, where Quilced"	"940001"	1697
+"Fife"		"53"	"53940002"	"940002Fife"	875	888	13188	13188	"Added HH from 070703"	"940002"	1700
+"Fife"		"53"	"53940009"	"940009Fife"	315	315	1593	1770	"Increased jobs to 60% due to planned development"	"940009"	1722
+"Fife"		"53"	"53940010"	"940010Fife"	514	514	1272	1075	"JObs decreased to match total allocated for Fife"	"940010"	1726
+		"33"		"023100Bellevue"	1588	1408	261	204		"023100"	281
+		"33"		"023201Bellevue"	2894	2757	1362	1486		"023201"	283
+		"33"		"023202Bellevue"	2473	2183	3079	2944		"023202"	284
+		"33"		"023300Bellevue"	2383	2249	1840	1449		"023300"	285
+		"33"		"023401Bellevue"	1750	3226	12598	15268	"Bellevue College has plans to add 1,100 dorm rooms; Eastgate subarea plan uped zoning in Comp Plan"	"023401"	286
+		"33"		"023403Bellevue"	1760	1585	8242	8791		"023403"	287
+		"33"		"023500Bellevue"	1650	1481	584	515		"023500"	293
+		"33"		"023601Bellevue"	2107	3205	11626	12532	"Wilburton area projected to get more growth by 2040 due to proximty to Downtown, BelRed and light rail stations - zoning will be relooked at this fall"	"023601"	294
+		"33"		"023603Bellevue"	2740	2589	2789	2513		"023603"	295
+		"33"		"023604Bellevue"	2946	2555	1323	1069		"023604"	296
+		"33"		"023700Bellevue"	4701	9094	41317	43258	"BelRed permits and master plans projected to get more growth"	"023700"	297
+		"33"		"023801Bellevue"	1518	1716	7840	8899	"East Main light rail station area expected to get more growth"	"023801"	301
+		"33"		"023803Bellevue"	8670	6298	19605	16583		"023803"	302
+		"33"		"023804Bellevue"	8544	7924	63860	62259		"023804"	303
+		"33"		"023900Bellevue"	3069	2721	763	668		"023900"	305
+		"33"		"024000Bellevue"	3850	3391	6090	5267		"024000"	309
+		"33"		"024701Bellevue"	1798	1500	701	612		"024701"	342
+		"33"		"024702Bellevue"	1157	969				"024702"	343
+		"33"		"024800Bellevue"	2834	2622	11285	12542	"New Eastgate designations adopted in Comp Plan add capacity."	"024800"	348
+		"33"		"024901Bellevue"	2038	1803	720	604		"024901"	349
+		"33"		"024902Bellevue"	1494	1339	271	172		"024902"	350
+		"33"		"024903Bellevue"	2610	2309	561	495		"024903"	351
+		"33"		"025001Bellevue"	919	809				"025001"	353
+		"33"		"025003Bellevue"	2266	1845	1131	716		"025003"	355
+		"33"		"025006Bellevue"	603	421	123	102		"025006"	363
+		"53"		"060200Pierce Co Urban"	81	87	110	80	"exceeds job capacity (0); only residential zoning;  increase HH to eliminate negative"	"060200"	1178
+		"53"		"062802Pierce Co Urban"	9	9	75	25	"job growth seems very high; small area that is mostly built out"	"062802"	1221
+		"53"		"070100Pierce Co Rural"	1352	1352	888	668		"070100"	1240
+		"53"		"070203Pierce Co Rural"	863	1363	130	140	"falling water vested development approved for 900+ units, some already built"	"070203"	1245
+		"53"		"070206Pierce Co Rural"	1195	1195	260	270		"070206"	1256
+		"53"		"070207Pierce Co Rural"	268	268	75	85		"070207"	1262
+		"53"		"070307Pierce Co Rural"	1605	1755	520	530	"incr HH based on Pierce Co Forecast"	"070307"	1267
+		"53"		"070309Pierce Co Urban"	115	91	47	47	"exceeds housing capacity (26)"	"070309"	1272
+		"53"		"070310Pierce Co Rural"	0	1	0	0	"increase HH to eliminate negative"	"070310"	1274
+		"53"		"070310Pierce Co Urban"	1327	1327	280	185	"exceeds job capacity (0); only residential zoning"	"070310"	1275
+		"53"		"070311Pierce Co Rural"	916	958	263	263	"increase HH to eliminate negative"	"070311"	1277
+		"53"		"070311Pierce Co Urban"	459	459	95	65	"exceeds job capacity (0); only residential zoning"	"070311"	1278
+		"53"		"070312Pierce Co Rural"	190	190	254	314	"shouldn’t be losing jobs"	"070312"	1280
+		"53"		"070312Pierce Co Urban"	5	5	83	104	"shouldn’t be losing jobs"	"070312"	1281
+		"53"		"070313Pierce Co Rural"	1142	1392	422	422	"increase HH to eliminate negative"	"070313"	1284
+		"53"		"070313Pierce Co Urban"	818	418	233	193	"decrease hh per Pierce County forecast; exceeds job capacity (15)"	"070313"	1285
+		"53"		"070314Pierce Co Urban"	342	342	107	77	"exceeds job capacity (4)"	"070314"	1288
+		"53"		"070315Pierce Co Rural"	507	535	267	267	"increase HH to eliminate negative"	"070315"	1292
+		"53"		"070315Pierce Co Urban"	870	520	344	144	"decrease hh per Pierce County forecast; exceeds job capacity (0)"	"070315"	1293
+		"53"		"070401Pierce Co Rural"	965	965	563	652	"jobs shouldn’t be negative"	"070401"	1299
+		"53"		"070404Pierce Co Rural"	422	483	88	88	"shouldn’t be losing hh"	"070404"	1305
+		"53"		"071205Pierce Co Rural"	1372	1552	493	493	"increase HH to eliminate negative"	"071205"	1314
+		"53"		"071206Pierce Co Rural"	675	805	229	229	"increase HH to eliminate negative"	"071206"	1317
+		"53"		"071206Pierce Co Urban"	1206	1206	711	817	"increase jobs to eliminate negative"	"071206"	1318
+		"53"		"071208Pierce Co Urban"	2950	2950	753	953	"Urban Village: increase job growth;"	"071208"	1322
+		"53"		"071304Pierce Co Urban"	2783	2783	1067	1667	"Urban Village: increase job growth;"	"071304"	1329
+		"53"		"071305Pierce Co Urban"	879	879	1504	2004	"increase jobs to eliminate negative"	"071305"	1332
+		"53"		"071307Pierce Co Urban"	2410	2410	953	1053		"071307"	1335
+		"53"		"071309Pierce Co Urban"	1901	1901	1383	1233	"decrease jobs - mostly residential; exceeds job capacity (747)"	"071309"	1337
+		"53"		"071406Pierce Co Rural"	225	275	138	179	"increase HH R5 more growth"	"071406"	1342
+		"53"		"071406Pierce Co Urban"	4250	3450	5754	5754	"decrease hh per Pierce County forecast"	"071406"	1343
+		"53"		"071407Pierce Co Rural"	1281	1361	299	299	"increase HH R5 more growth"	"071407"	1344
+		"53"		"071602Pierce Co Rural"	32	32	360	240	"jobs too high for such a small geography of rural (R10)"	"071602"	1361
+		"53"		"072109Pierce Co Rural"	116	21	9	4	"Major constraints on Ketron Island"	"072109"	1407
+		"53"		"072405Pierce Co Rural"	1760	1760	542	562		"072405"	1441
+		"53"		"072406Pierce Co Rural"	1651	1651	601	621		"072406"	1443
+		"53"		"072407Pierce Co Rural"	829	829	641	661		"072407"	1446
+		"53"		"072409Pierce Co Rural"	1013	1013	329	349		"072409"	1454
+		"53"		"072504Pierce Co Rural"	1424	1424	602	652		"072504"	1462
+		"53"		"072505Pierce Co Rural"	1153	1153	426	446		"072505"	1466
+		"53"		"072506Pierce Co Rural"	1394	1394	274	294		"072506"	1471
+		"53"		"072601Pierce Co Rural"	2476	2376	781	781	"reduce HH  - very rural"	"072601"	1479
+		"53"		"072602Pierce Co Rural"	2488	1888	937	862	"reduce HH and jobs - very rural"	"072602"	1481
+		"53"		"072603Pierce Co Rural"	3962	2562	1764	1514	"reduce HH and jobs - very rural"	"072603"	1484
+		"53"		"073001Pierce Co Rural"	2128	2238	770	790		"073001"	1510
+		"53"		"073005Pierce Co Rural"	2160	2320	582	602		"073005"	1513
+		"53"		"073006Pierce Co Rural"	1963	1963	764	784		"073006"	1514
+		"53"		"073113Pierce Co Rural"	1257	1257	594	614		"073113"	1519
+		"53"		"073114Pierce Co Rural"	1853	1883	358	378		"073114"	1521
+		"53"		"073115Pierce Co Rural"	1447	1468	397	417	"increase HH to eliminate negative"	"073115"	1523
+		"53"		"073116Pierce Co Rural"	1637	1637	347	367		"073116"	1524
+		"53"		"073117Pierce Co Rural"	1492	1602	800	820		"073117"	1525
+		"53"		"073118Pierce Co Rural"	1739	1849	572	592		"073118"	1526
+		"53"		"073119Pierce Co Rural"	1493	1563	769	789		"073119"	1527
+		"53"		"073124Pierce Co Rural"	534	564	563	583		"073124"	1533
+		"53"		"073125Pierce Co Rural"	155	177	23	23	"increase HH to eliminate negative"	"073125"	1535
+		"53"		"073200Pierce Co Rural"	2084	2084	699	749		"073200"	1539
+		"53"		"940004Pierce Co Rural"	2629	2689	1386	1386		"940004"	1710
+		"53"		"071407Pierce Co Urban"	1031	1031	169	119	"exceeds job capacity (0); only residential zoning"	"071407"	1345
+		"53"		"071408Pierce Co Urban"	1619	1639	1358	1268	"exceeds job capacity (236)"	"071408"	1346
+		"53"		"071410Pierce Co Urban"	2949	2949	787	1107	"increase jobs to eliminate negative"	"071410"	1349
+		"53"		"071411Pierce Co Urban"	2120	1720	842	842	"decrease jobs per PC forecast"	"071411"	1351
+		"53"		"071503Pierce Co Urban"	2054	2122	2223	2423	"increase hh and jobs to eliminate negative"	"071503"	1353
+		"53"		"071504Pierce Co Urban"	1560	1710	2336	2547	"increase hh and jobs to eliminate negative"	"071504"	1354
+		"53"		"071506Pierce Co Urban"	1984	2004	334	244	"exceeds job capacity (0); only residential zoning"	"071506"	1357
+		"53"		"071703Pierce Co Urban"	534	604	173	153	"exceeds job capacity (20)"	"071703"	1365
+		"53"		"071704Pierce Co Urban"	1322	1547	323	323	"increase hh to eliminate negative"	"071704"	1368
+		"53"		"071705Pierce Co Urban"	1363	1413	1000	1150		"071705"	1370
+		"53"		"071706Pierce Co Urban"	602	642	373	373		"071706"	1374
+		"53"		"071707Pierce Co Urban"	975	1108	912	912	"increase HH to eliminate negative"	"071707"	1375
+		"53"		"071803Pierce Co Urban"	224	224	36	211	"increase jobs to eliminate negative"	"071803"	1377
+		"53"		"072105Pierce Co Urban"	64	48	10	7	"Chambers creek park land no future development here--there are no homes or jobs in this area, just open space/HH and jobs should be 0"	"072105"	1395
+		"53"		"072109Pierce Co Urban"	14	14	41	41	"should not have any HH or jobs/Bridge and water"	"072109"	1408
+		"53"		"072112Pierce Co Urban"	753	842	76	76	"increase HH to eliminate negative"	"072112"	1415
+		"53"		"072308Pierce Co Urban"	0	0	7	7	"should not have any HH or jobs/Bridge and water"	"072308"	1424
+		"53"		"072407Pierce Co Urban"	613	613	326	266	"exceeds job capacity (0); only residential zoning"	"072407"	1447
+		"53"		"072408Pierce Co Urban"	89	99	869	269	"increase HH to eliminate negative; decrease jobs--small geography and majority of it is the golf course"	"072408"	1451
+		"53"		"072504Pierce Co Urban"	104	104	355	455		"072504"	1463
+		"53"		"073110Pierce Co Urban"	1551	1551	444	404	"exceeds job capacity (0)"	"073110"	1517
+		"53"		"073111Pierce Co Urban"	1607	1627	511	561		"073111"	1518
+		"53"		"073113Pierce Co Urban"	2655	3855	353	353	"incr hh Sunrise/Lipoma/Daybreak-3200 pipeline HH"	"073113"	1520
+		"53"		"073120Pierce Co Urban"	1579	1579	1465	1315	"exceeds job capacity (589)"	"073120"	1528
+		"53"		"073121Pierce Co Urban"	1779	1809	3815	2565	"decrease jobs - mostly residential; exceeds job capacity (600)"	"073121"	1529
+		"53"		"073122Pierce Co Urban"	1637	2067	1744	2044	"incr hh and jobs - Sunrise/Thun Field"	"073122"	1530
+		"53"		"073123Pierce Co Urban"	3062	3282	638	638	"pipeline projects-increase HH"	"073123"	1532
+		"53"		"073126Pierce Co Urban"	1611	1147	426	426	"exceeds housing capacity (20)-the MPC is built out and the rest is industrial zone that prohibits housing"	"073126"	1537
+		"53"		"073301Pierce Co Urban"	13	9	83	83	"housing should be 0 or negative, this is an industrial area"	"073301"	1543
+		"53"		"073408Pierce Co Urban"	279	279	203	110	"exceeds job capacity (52)"	"073408"	1558
+		"53"		"940001Pierce Co Urban"	1032	978	194	232	"exceeds housing capacity (126)"	"940001"	1696
+		"53"		"940002Pierce Co Urban"	1657	1393	441	441	"exceeds housing capacity (658)"	"940002"	1703
+		"53"		"940011Pierce Co Urban"	10	5	2	2	"exceeds housing capacity (1)"	"940011"	1732
+"Tukwila"		33				0		310			416
+"Tukwila"		33				757		10949			411
+"Tukwila"		33				1321		8654			434
+"Tukwila"		33				101		241			433
+"Tukwila"		33				1481		517			437
+"Tukwila"		33				170		408			451
+"Tukwila"		33				2315		1152			453
+"Tukwila"		33				5366		24521			408
+"Tukwila"		33				899		12294			457

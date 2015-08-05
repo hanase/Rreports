@@ -54,5 +54,16 @@ comments <- list(
 "2597"=" Jobs too high. Lynnwood across I-5 from City Center and Transit station",
 "2564"=" Canyon Park. Shows over a 1000 more jobs growth from 2010 to 2035 than our forecast.\nOur 2010 estimate was roughly 300 jobs higher.",
 "242"="[no comment] Ballard zone with 2800 housing units added.",
-"1150"="[no comment] Large excess of HH over HUs."
+"1150"="[no comment] Large excess of HH over HUs.",
+"567"="[no comment] center of FAZ; decrease in jobs in BG",
+"568"="[no comment] center of FAZ; decrease in jobs in BG",
+"548"="[no comment] center of FAZ; decrease in jobs in BG",
+"576"="[no comment] center of FAZ; decrease in jobs in BG",
+"581"="[no comment] center of FAZ; decrease in jobs in BG",
+"574"="[no comment] center of FAZ; decrease in jobs in BG",
+"552"="[no comment] center of FAZ; decrease in jobs in BG",
+"709"="[no comment] decrease in jobs in BG",
+"710"="[no comment] decrease in jobs in BG",
+"711"="[no comment] decrease in jobs in BG",
+"666"="[no comment] decrease in jobs in BG"
 )

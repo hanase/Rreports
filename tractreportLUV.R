@@ -1,38 +1,26 @@
-# Script for generating LUV R report on faz level
+# Script for generating	R report on tract level
 # Hana Sevcikova, PSRC
-# March, 2015
+# July, 2015
 #
 
 ##### BEGIN USER SETTINGS ######
-#runs <- c(114, 113, "245mr1") # runs to include
-runs <- c(142, 138, 133, 113)
-runs <- c(142, 138)
-
-#ci.run <- c(245) # which run has confidence intervals 
-			       # (only the last one is included in the table)
-ci.run <- c()
-show.median <- FALSE
-ci.run.name <- list("235" = 'MRr') # only needed if different from run number
-#ci.run.name <- list("245" = 'MRr245')
-
+runs <- c(142, 138) # runs to include
+ci.run <- c() # which run has confidence intervals 
+			     # (only the last one is included in the table)
 
 # Directory containing the runs with indicators. 
 # The indicators directory must contain files of the type 'faz__tab__xxx.tab'
-#sim.dir <- '/Users/hana/psrc3656/workspace/data/psrc_parcel/runs' 
+#sim.dir <- '/Users/hana/workspace/data/psrc_parcel/runs' 
 sim.dir <- file.path(getwd(), 'runs') 
 sim.prefix <- 'run_' # name of the run sub-directory without the run number, e.g. 'run_' for directory run_199
 
-# Directory containing confidence intervals
-# It should contain a sub-directory 'runxxx_quantiles' with faz-level CI files (xxx is ci.run)
-ci.dir <- file.path(getwd(), 'quantiles')
-
 show.all.years <- TRUE # should results from all years be shown as dotted lines
 not.all.years <- c() # if show.all.years is TRUE, put here runs that are exceptions
-show.lut <- TRUE
-show.comments <- TRUE
 
-geography <- 'faz'
-output.file.name <- paste(geography, 'reportLUV', if(show.all.years) 'allyears' else '', '_', paste(runs, collapse='_'), sep='')
+geography <- 'tractcity'
+geo.id <- paste0(geography, '_id')
+
+output.file.name <- paste(geography, 'reportLUV1_', if(show.all.years) 'allyears_' else '', paste(runs, collapse='_'), sep='')
 
 years <- c(2000, 2010, 2020, 2025, 2030, 2035, 2040) # for plots
 years <- c(2000, seq(2010, 2040, by=5))
@@ -52,88 +40,79 @@ indicators <- c('households',  'population', 'jobs')
 ci.names <- list(jobs='job', households='household', population='population')
 titles <- list(households='Households', jobs='Employment', population='HH Population')
 
-
-
 output.file.name.pdf <- paste(output.file.name,  'pdf', sep='.')
 output.file.name.txt <- paste(output.file.name,  'txt', sep='.')
 
 wrkdir <- getwd()
-if(show.comments) source(file.path(wrkdir, 'data', paste0('commentsLUV',geography,'.R')), chdir=TRUE)
+comments <- read.table(file.path(wrkdir, 'data', paste0('commentsLUV1', geography, '.csv')), header=TRUE, sep='\t', 
+						allowEscapes = TRUE, as.is=TRUE)
+comment.header <- list(households="HH_Comment_40", jobs="Emp_Comment_40")
 
 trim.leading <- function (x)  sub("^\\s+", "", x)
 
 remove.na <- function(data)
 	apply(data, c(1,2), function(x) if(trim.leading(x)=='NA') '' else x)
 
+check.numeric <- function(N){
+  !length(grep("[^[:digit:]]", as.character(N)))
+}
 
 
-sim <- fazids <- CIs <- saf <- trend.data <- lut.data <- fazids.tr <- fazids.lut <- fazids.saf <- list()
-
-id.correspondence <- data.frame(read.table(file.path(wrkdir, 'data', 'fazes.txt'), sep='\t', header=TRUE))
-id.correspondence <- id.correspondence[order(id.correspondence[,'faz_id']),]
-
-faz.city <- read.table(file.path(wrkdir, 'data', "faz_city_luv.txt"), sep='\t', header=TRUE)
-faz_names <- read.table(file.path(wrkdir, 'data', 'faz_names.txt'), header=TRUE, sep='\t')
-cities <- read.table(file.path(wrkdir, 'data', "citiesLUV.csv"), sep=',', header=TRUE)
+sim <- sim.ref <- ids <- ids.ref <- CIs <- saf <- trend.data <- ids.tr <- list()
 
 for (what in indicators) {
 	# Load observed data
-	trend.file.name <- file.path(wrkdir, 'data',  paste(what, '_observed_', geography, '.txt', sep=''))
+	trend.file.name <- file.path(wrkdir, 'data',  paste0(what, '_observed_', geography, '.txt'))
 	if(file.exists(trend.file.name)) {
 		trend.data.raw <- data.frame(read.table(trend.file.name, sep='\t', header=TRUE))
-		fazids.tr[[what]] <- trend.data.raw[,1]
-		trend.data[[what]] <- trend.data.raw[order(fazids.tr[[what]]), 2:ncol(trend.data.raw)]
-		fazids.tr[[what]] <- sort(fazids.tr[[what]])
+		ids.tr[[what]] <- trend.data.raw[,1]
+		trend.data[[what]] <- trend.data.raw[order(ids.tr[[what]]), 2:ncol(trend.data.raw)]
+		ids.tr[[what]] <- sort(ids.tr[[what]])
 		colnames(trend.data[[what]]) <- substr(colnames(trend.data[[what]]), 2,5)
 		trend.data[[what]] <- trend.data[[what]][,is.element(colnames(trend.data[[what]]), as.character(years))]
 	}
-	lut.file.name <- file.path(wrkdir, 'data',  paste(what, '_LUT_', geography, '.txt', sep=''))
-	if(show.lut && file.exists(lut.file.name)) {
-		lut.data.raw <- data.frame(read.table(lut.file.name, sep='\t', header=TRUE))
-		fazids.lut[[what]] <- lut.data.raw[,1]
-		lut.data[[what]] <- lut.data.raw[order(fazids.lut[[what]]), 2:ncol(lut.data.raw)]
-		fazids.lut[[what]] <- sort(fazids.lut[[what]])
-		colnames(lut.data[[what]]) <- substr(colnames(lut.data[[what]]), 2,5)
-		lut.data[[what]] <- lut.data[[what]][,is.element(colnames(lut.data[[what]]), as.character(years))]
-	}
-
-	sim[[what]] <- fazids[[what]] <- CIs[[what]] <- list()
-	for(irun in 1:length(runs)) {
-		run <- runs[irun]
+	sim[[what]] <- ids[[what]] <- CIs[[what]] <- list()
+	for(run in runs) {
 		# Load indicators
-		data <- read.table(file.path(sim.dir, paste(sim.prefix, run, sep=''), 
-						'indicators', paste(geography, '__table__', what, '.csv', sep='')), sep=',', header=TRUE)
+		data <- read.table(file.path(sim.dir, paste0(sim.prefix, run), 
+						'indicators', paste0(geography, '__table__', what, '.csv')), sep=',', header=TRUE)
 		sim[[what]][[run]] <- data[,2:ncol(data)]
-		fazids[[what]][[run]] <- data[,1]
-		sim[[what]][[run]] <- sim[[what]][[run]][order(fazids[[what]][[run]]),]
-		fazids[[what]][[run]] <- sort(fazids[[what]][[run]])
+		ids[[what]][[run]] <- data[,1]
+		sim[[what]][[run]] <- sim[[what]][[run]][order(ids[[what]][[run]]),]
+		ids[[what]][[run]] <- sort(ids[[what]][[run]])
 	}
 }
-area.names <-  faz_names[,c('faz_id', 'Name')]
-colnames(area.names) <- c('id', 'name')
+
+geo.names <- data.frame(read.table(file.path(wrkdir, 'data', 'tractcity.csv'), sep=',', header=TRUE))
+geo.names <- geo.names[,c("tractcity_id", "trctjuris")]
+colnames(geo.names) <- c('id', 'name')
 years.for.df <- sort(unique(c(years, all.years)))
 lyears.for.df <- length(years.for.df)
-zones <- sort(fazids[[indicators[1]]][[runs[1]]])
-if(show.comments) {
-	is.in.comments <- zones %in% as.integer(names(comments))
-	zones <- c(zones[is.in.comments], zones[!is.in.comments])
-}
+tracts <- sort(ids[[indicators[1]]][[runs[1]]])
+tracts.in.comments <- comments$tractcity_id
+tracts.id.in.comments <- as.integer(tracts.in.comments)
+is.in.comments <- tracts %in% tracts.id.in.comments
+#tracts <- c(tracts[is.in.comments], tracts[!is.in.comments])
+tracts <- tracts[is.in.comments]
+
 file.append <- FALSE
-cat('\nProcessing ', length(zones), ' geographies:\n')
+cat('\nProcessing ', length(tracts), ' geographies:\n')
 pdf(output.file.name.pdf, width=12, height=9)
-for(faz in zones) {
-	cat(faz, ', ')
+for(geo in tracts) {
+	cat(geo, ', ')
 	flush.console()
+	comment.idx <- which(tracts.id.in.comments == geo)
+	has.comment <- length(comment.idx) > 0
   	g <- gtab <- list()
 	for (what in indicators) {
-		faz_not_found <- FALSE
+		geo_not_found <- FALSE
 		tabDF <- data.frame(Time=years.for.df)
 		last.table.columns <- NA	
-		run.table.columns <- c()
+		run.table.columns <- ref.table.columns <-c()
 		for(irun in 1:length(runs)) {
 			run <- runs[irun]
-			idx <- which(fazids[[what]][[run]]==faz)
-			if (length(idx) <=0) {faz_not_found <- TRUE; break}
+			idx <- which(ids[[what]][[run]]==geo)
+			if (length(idx) <=0) {geo_not_found <- TRUE; break}
 			coln <- colnames(sim[[what]][[run]])
 			run.cols <- substr(coln, nchar(coln)-3, nchar(coln))
 			col.idx <- which(run.cols %in% as.character(years.for.df))
@@ -150,28 +129,18 @@ for(faz in zones) {
 			last.table.columns <- c()
 			tabDF <- cbind(tabDF, this.tabdata)
 		}
-		if(faz_not_found) next
-		idxt <- which(fazids.tr[[what]]==faz)
-		obs.df <- lut.df <- NULL
+		if(geo_not_found) next
+		idxt <- which(ids.tr[[what]]==geo)
+		obs.df <-  NULL
 		if(!is.null(trend.data[[what]])) {
 			obs.df <- data.frame(run=rep('Actual', ncol(trend.data[[what]])), 
 						Time=as.integer(colnames(trend.data[[what]])), 
 						amount=as.numeric(trend.data[[what]][idxt, ]))
 		}
-		idxl <- which(fazids.lut[[what]]==faz)
-		if(!is.null(lut.data[[what]])) {
-			lut.df <- data.frame(run=rep('LUT', ncol(lut.data[[what]])), 
-						Time=as.integer(colnames(lut.data[[what]])), 
-						amount=as.numeric(lut.data[[what]][idxl, ]))
-		}
-		datafrs <- rbind(datafrs, obs.df, lut.df)
-		datafrs <- datafrs[!is.na(datafrs$amount),]
-		tabDF$Actual <- rep(NA, nrow(tabDF))
-		tabDF$Actual[tabDF$Time %in% as.integer(colnames(trend.data[[what]]))] <- trend.data[[what]][idxt,]
-		if(show.lut) {
-			tabDF$LUT <- rep(NA, nrow(tabDF))
-			tabDF$LUT[tabDF$Time %in% as.integer(colnames(lut.data[[what]]))] <- lut.data[[what]][idxl,]
-		}
+		datafrs <- rbind(datafrs, obs.df)
+		tabDF$Actual <- tabDF$Comment <- rep(NA, nrow(tabDF))
+		if(!is.null(trend.data[[what]]))
+			tabDF$Actual[tabDF$Time %in% as.integer(colnames(trend.data[[what]]))] <- trend.data[[what]][idxt,]
 		# Create plot of lines
 		g[[what]] <- ggplot(subset(datafrs, Time %in% years), aes(Time, amount, colour=factor(run))) + geom_line() + 
 							scale_y_continuous('') + scale_x_continuous('') + 
@@ -181,28 +150,44 @@ for(faz in zones) {
 									legend.key=element_blank(),
 									legend.key.size = unit(0.02, "npc"),
 									plot.title=element_text(size=12))
+
 		if(length(all.years) > 0)
 			g[[what]] <- g[[what]] + geom_line(data=subset(datafrs, run %in% runs & !(run %in% not.all.years) & Time %in% all.years), linetype=3)
+		# Add comment point
+		if(has.comment && length(comment.header[[what]]) > 0) {			
+			comamount <- as.character(comments[comment.idx,comment.header[[what]]])
+			if (!is.na(comamount) && comamount != '') {
+				comdf <- NULL
+				if(check.numeric(comamount)) {
+					comdf <- data.frame(Time=2040, amount=as.integer(comamount))
+					comcol <- 'black'
+				} else {
+					if(substr(comamount, nchar(comamount), nchar(comamount))=='?' && 
+							check.numeric(substr(comamount, 1, nchar(comamount)-1))) {
+						comdf <- data.frame(Time=2040, amount=as.integer(substr(comamount, 1, nchar(comamount)-1)))
+						comcol <- 'orange'
+					}
+				}
+				if(!is.null(comdf))	{
+					g[[what]] <- g[[what]] + geom_point(data=comdf, 
+									colour=comcol, aes(Time, amount, guide=FALSE))
+					tabDF$Comment[tabDF$Time %in% comdf$Time] <- as.integer(comamount)[1]	
+				}
+			}
+		}
 		# Create table
 		tidx <- c(which(is.element(tabDF[,1], years.for.table)), which(tabDF[,1]==9999))
 		tidx.raw <- tidx
 		rown <- tabDF[tidx,1]
 		last.row <- c()
 		for(column in colnames(tabDF)) tabDF[tidx.raw,column] <- as.integer(tabDF[tidx.raw,column])
-		lastcols <- c() # this removes low and high from the table
-		columns <- c('Actual')
-		if(show.lut) columns <- c(columns, 'LUT')
-		columns <- c(columns,  unlist(strsplit(paste(paste(run.table.columns, collapse=','), sep=','), ',')), lastcols)
+		lastcols <- if(length(last.table.columns)==1 && is.na(last.table.columns)) c() else last.table.columns
+		columns <- c('Actual', unlist(strsplit(paste(paste(run.table.columns, collapse=','), sep=','), ',')), lastcols, 'Comment')
 		format.table <- format(tabDF[tidx.raw,columns],
 							justify='right', big.mark = ","
 							)
-		#tabDF[is.na(tabDF)] <- ''
 		gtab[[what]] <- list()
-		
-		#tabidxs <- list(1:2, 3:(length(mid.table.columns)+2), (length(mid.table.columns)+3):length(columns))
-		#for(i in 1:3){
-		#	gtab[[what]][[i]] <- tableGrob(format(tabDF[tidx,columns[tabidxs[[i]]]],
-			gtab[[what]] <- tableGrob(format.table,
+		gtab[[what]] <- tableGrob(format.table,
 						rows=rown,
     					#gpar.colfill = gpar(fill=NA,col=NA), 
     					gpar.rowfill = gpar(fill=NA,col=NA),
@@ -212,10 +197,9 @@ for(faz in zones) {
     					show.csep = TRUE, 
     					gpar.rowtext = gpar(col="black",  equal.width = TRUE, fontface='bold', # cex=0.8,
                         			show.vlines = TRUE, show.hlines = TRUE, separator="grey")                     
-    		)
-    		gtab[[what]]$d <- remove.na(gtab[[what]]$d)
-    	#}
-    	tabDF <- cbind(faz, tabDF)
+    	)
+    	gtab[[what]]$d <- remove.na(gtab[[what]]$d)
+    	tabDF <- cbind(geo, tabDF)
     	colnames(tabDF)[1] <- 'area_id'
     	if(save.data.as.ascii) {
     		write(titles[[what]], file=output.file.name.txt, append=file.append)
@@ -224,19 +208,22 @@ for(faz in zones) {
     		file.append <- TRUE
     	}
 	}
-	fc <- sort(subset(faz.city, faz_id == faz)$city_id)
-	citidx <- sapply(fc, function(x) which(cities$city_id == x))
-	sub <- paste(fc, cities[citidx,'city_name'], sep=": ", collapse=', ')
-	if(show.comments && is.element(faz, as.integer(names(comments)))) {
-			   sub <- paste(sub, '\n', comments[as.character(faz)])
-			   main.col <- 'red'
-			} else main.col <- 'black'
+	sub <- ''
+	main <- paste(geo, '-', geo.names[geo.names[,'id']==geo,'name'])
+	if(length(main) == 0) main <- as.character(geo)
+	if(is.element(geo, tracts.id.in.comments)) {
+		sub <- comments[which(tracts.in.comments == geo), "Comment"]
+		juris <- as.character(comments[which(tracts.in.comments == geo), "Tract"])
+		#main <- paste0(main, " (", substr(juris, 7, nchar(juris)), ")")
+		main.col <- 'red'
+	}  else main.col <- 'black'
 	# Assemble page		
 	grid.arrange(gtab[[indicators[1]]], g[[indicators[1]]],
 				 gtab[[indicators[2]]], g[[indicators[2]]],
 				 gtab[[indicators[3]]], g[[indicators[3]]],
 				ncol=2, 
-				main=textGrob(paste(faz, '-', area.names[area.names[,'id']==faz,'name']), 
+				main=textGrob(main,
+						#paste(geo, '-', geo.names[geo.names[,'id']==geo,'name']), 
 						gp=gpar(fontsize=14,fontface="bold", col=main.col, fill=main.col), 
 						just=c('center', 'top')),
 				heights=unit(0.33, "npc"),
