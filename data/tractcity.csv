@@ -1,0 +1,1764 @@
+juris_d,tract,tractcity_id,trctjuris
+Kenmore,000100,1,000100Kenmore
+Kirkland,000100,2,000100Kirkland
+Lake Forest Park,000100,3,000100Lake Forest Park
+Seattle,000100,4,000100Seattle
+Seattle,000200,5,000200Seattle
+Shoreline,000200,6,000200Shoreline
+Seattle,000300,7,000300Seattle
+Shoreline,000300,8,000300Shoreline
+Seattle,000401,9,000401Seattle
+Shoreline,000401,10,000401Shoreline
+Seattle,000402,11,000402Seattle
+Seattle,000500,12,000500Seattle
+Shoreline,000500,13,000500Shoreline
+Seattle,000600,14,000600Seattle
+Seattle,000700,15,000700Seattle
+Seattle,000800,16,000800Seattle
+Kirkland,000900,17,000900Kirkland
+Seattle,000900,18,000900Seattle
+Seattle,001000,19,001000Seattle
+Seattle,001100,20,001100Seattle
+Seattle,001200,21,001200Seattle
+Seattle,001300,22,001300Seattle
+Seattle,001400,23,001400Seattle
+Seattle,001500,24,001500Seattle
+Seattle,001600,25,001600Seattle
+Seattle,001701,26,001701Seattle
+Seattle,001702,27,001702Seattle
+Seattle,001800,28,001800Seattle
+Seattle,001900,29,001900Seattle
+Seattle,002000,30,002000Seattle
+Seattle,002100,31,002100Seattle
+Kirkland,002200,32,002200Kirkland
+Seattle,002200,33,002200Seattle
+Seattle,002400,34,002400Seattle
+Seattle,002500,35,002500Seattle
+Seattle,002600,36,002600Seattle
+Seattle,002700,37,002700Seattle
+Seattle,002800,38,002800Seattle
+Seattle,002900,39,002900Seattle
+Seattle,003000,40,003000Seattle
+Seattle,003100,41,003100Seattle
+Seattle,003200,42,003200Seattle
+Seattle,003300,43,003300Seattle
+Seattle,003400,44,003400Seattle
+Seattle,003500,45,003500Seattle
+Seattle,003600,46,003600Seattle
+Seattle,003800,47,003800Seattle
+Seattle,003900,48,003900Seattle
+Hunts Point,004000,49,004000Hunts Point
+Kirkland,004000,50,004000Kirkland
+Seattle,004000,51,004000Seattle
+Hunts Point,004100,52,004100Hunts Point
+Medina,004100,53,004100Medina
+Seattle,004100,54,004100Seattle
+Seattle,004200,55,004200Seattle
+Seattle,004301,56,004301Seattle
+Seattle,004302,57,004302Seattle
+Seattle,004400,58,004400Seattle
+Seattle,004500,59,004500Seattle
+Seattle,004600,60,004600Seattle
+Seattle,004700,61,004700Seattle
+Seattle,004800,62,004800Seattle
+Seattle,004900,63,004900Seattle
+Seattle,005000,64,005000Seattle
+Seattle,005100,65,005100Seattle
+Seattle,005200,66,005200Seattle
+Seattle,005301,67,005301Seattle
+Seattle,005302,68,005302Seattle
+Seattle,005400,69,005400Seattle
+Seattle,005600,70,005600Seattle
+Seattle,005700,71,005700Seattle
+Seattle,005801,72,005801Seattle
+Seattle,005802,73,005802Seattle
+Seattle,005900,74,005900Seattle
+Seattle,006000,75,006000Seattle
+Seattle,006100,76,006100Seattle
+Seattle,006200,77,006200Seattle
+Medina,006300,78,006300Medina
+Seattle,006300,79,006300Seattle
+Seattle,006400,80,006400Seattle
+Seattle,006500,81,006500Seattle
+Seattle,006600,82,006600Seattle
+Seattle,006700,83,006700Seattle
+Seattle,006800,84,006800Seattle
+Seattle,006900,85,006900Seattle
+Seattle,007000,86,007000Seattle
+Seattle,007100,87,007100Seattle
+Seattle,007200,88,007200Seattle
+Seattle,007300,89,007300Seattle
+Seattle,007401,90,007401Seattle
+Seattle,007402,91,007402Seattle
+Seattle,007500,92,007500Seattle
+Seattle,007600,93,007600Seattle
+Seattle,007700,94,007700Seattle
+Seattle,007800,95,007800Seattle
+Seattle,007900,96,007900Seattle
+Seattle,008001,97,008001Seattle
+Seattle,008002,98,008002Seattle
+Seattle,008100,99,008100Seattle
+Seattle,008200,100,008200Seattle
+Seattle,008300,101,008300Seattle
+Seattle,008400,102,008400Seattle
+Seattle,008500,103,008500Seattle
+Seattle,008600,104,008600Seattle
+Seattle,008700,105,008700Seattle
+Seattle,008800,106,008800Seattle
+Mercer Island,008900,107,008900Mercer Island
+Seattle,008900,108,008900Seattle
+Seattle,009000,109,009000Seattle
+Seattle,009100,110,009100Seattle
+King Co Rural,009200,111,009200King Co Rural
+Seattle,009200,112,009200Seattle
+Seattle,009300,113,009300Seattle
+Seattle,009400,114,009400Seattle
+Mercer Island,009500,115,009500Mercer Island
+Seattle,009500,116,009500Seattle
+Seattle,009600,117,009600Seattle
+Seattle,009701,118,009701Seattle
+Seattle,009702,119,009702Seattle
+Seattle,009800,120,009800Seattle
+Seattle,009900,121,009900Seattle
+Seattle,010001,122,010001Seattle
+Seattle,010002,123,010002Seattle
+Mercer Island,010100,124,010100Mercer Island
+Seattle,010100,125,010100Seattle
+Seattle,010200,126,010200Seattle
+Seattle,010300,127,010300Seattle
+Seattle,010401,128,010401Seattle
+Seattle,010402,129,010402Seattle
+Seattle,010500,130,010500Seattle
+Seattle,010600,131,010600Seattle
+Seattle,010701,132,010701Seattle
+Seattle,010702,133,010702Seattle
+Seattle,010800,134,010800Seattle
+Seattle,010900,135,010900Seattle
+Tukwila,010900,136,010900Tukwila
+Seattle,011001,137,011001Seattle
+Seattle,011002,138,011002Seattle
+Seattle,011101,139,011101Seattle
+Mercer Island,011102,140,011102Mercer Island
+Seattle,011102,141,011102Seattle
+King Co Urban,011200,142,011200King Co Urban
+Seattle,011200,143,011200Seattle
+Tukwila,011200,144,011200Tukwila
+Uninc,011200,145,011200Uninc
+King Co Urban,011300,146,011300King Co Urban
+Seattle,011300,147,011300Seattle
+Seattle,011401,148,011401Seattle
+King Co Urban,011402,149,011402King Co Urban
+Seattle,011402,150,011402Seattle
+Seattle,011500,151,011500Seattle
+Seattle,011600,152,011600Seattle
+King Co Urban,011700,153,011700King Co Urban
+Seattle,011700,154,011700Seattle
+Tukwila,011700,155,011700Tukwila
+Mercer Island,011800,156,011800Mercer Island
+Seattle,011800,157,011800Seattle
+King Co Urban,011900,158,011900King Co Urban
+Mercer Island,011900,159,011900Mercer Island
+Seattle,011900,160,011900Seattle
+Tukwila,011900,161,011900Tukwila
+King Co Urban,012000,162,012000King Co Urban
+Seattle,012000,163,012000Seattle
+Burien,012100,164,012100Burien
+King Co Urban,012100,165,012100King Co Urban
+Seattle,012100,166,012100Seattle
+Shoreline,020100,167,020100Shoreline
+Snohomish Co Urban,020100,168,020100Snohomish Co Urban
+Edmonds,020200,169,020200Edmonds
+Shoreline,020200,170,020200Shoreline
+Woodway,020200,171,020200Woodway
+Edmonds,020300,172,020300Edmonds
+Shoreline,020300,173,020300Shoreline
+Edmonds,020401,174,020401Edmonds
+Lake Forest Park,020401,175,020401Lake Forest Park
+Mountlake Terrace,020401,176,020401Mountlake Terrace
+Shoreline,020401,177,020401Shoreline
+Lake Forest Park,020402,178,020402Lake Forest Park
+Mountlake Terrace,020402,179,020402Mountlake Terrace
+Shoreline,020402,180,020402Shoreline
+Shoreline,020500,181,020500Shoreline
+Shoreline,020600,182,020600Shoreline
+Shoreline,020700,183,020700Shoreline
+Shoreline,020800,184,020800Shoreline
+Seattle,020900,185,020900Seattle
+Shoreline,020900,186,020900Shoreline
+Seattle,021000,187,021000Seattle
+Shoreline,021000,188,021000Shoreline
+Seattle,021100,189,021100Seattle
+Shoreline,021100,190,021100Shoreline
+Kenmore,021300,191,021300Kenmore
+Lake Forest Park,021300,192,021300Lake Forest Park
+Seattle,021300,193,021300Seattle
+Shoreline,021300,194,021300Shoreline
+Lake Forest Park,021400,195,021400Lake Forest Park
+Shoreline,021400,196,021400Shoreline
+Brier,021500,197,021500Brier
+Kenmore,021500,198,021500Kenmore
+Lake Forest Park,021500,199,021500Lake Forest Park
+Kenmore,021600,200,021600Kenmore
+Lake Forest Park,021600,201,021600Lake Forest Park
+Bothell,021700,202,021700Bothell
+Kenmore,021700,203,021700Kenmore
+Snohomish Co Urban,021700,204,021700Snohomish Co Urban
+Bothell,021802,205,021802Bothell
+Snohomish Co Rural,021802,206,021802Snohomish Co Rural
+Woodinville,021802,207,021802Woodinville
+Bothell,021803,208,021803Bothell
+King Co Urban,021803,209,021803King Co Urban
+Bothell,021804,210,021804Bothell
+Kirkland,021903,211,021903Kirkland
+King Co Rural,021904,212,021904King Co Rural
+Kirkland,021904,213,021904Kirkland
+Woodinville,021904,214,021904Woodinville
+Bothell,021905,215,021905Bothell
+Kirkland,021905,216,021905Kirkland
+Woodinville,021905,217,021905Woodinville
+Bothell,021906,218,021906Bothell
+King Co Rural,021906,219,021906King Co Rural
+Kirkland,021906,220,021906Kirkland
+Woodinville,021906,221,021906Woodinville
+Bothell,022001,222,022001Bothell
+Kirkland,022001,223,022001Kirkland
+Bothell,022003,224,022003Bothell
+Kirkland,022003,225,022003Kirkland
+Kirkland,022005,226,022005Kirkland
+Kirkland,022006,227,022006Kirkland
+Kenmore,022101,228,022101Kenmore
+Kirkland,022101,229,022101Kirkland
+Lake Forest Park,022101,230,022101Lake Forest Park
+Bothell,022102,231,022102Bothell
+Kenmore,022102,232,022102Kenmore
+Kirkland,022102,233,022102Kirkland
+Kenmore,022201,234,022201Kenmore
+Kirkland,022201,235,022201Kirkland
+Kenmore,022202,236,022202Kenmore
+Kirkland,022202,237,022202Kirkland
+Kirkland,022203,238,022203Kirkland
+Kenmore,022300,239,022300Kenmore
+Kirkland,022300,240,022300Kirkland
+Seattle,022300,241,022300Seattle
+Kirkland,022400,242,022400Kirkland
+Kirkland,022500,243,022500Kirkland
+King Co Urban,022603,244,022603King Co Urban
+Kirkland,022603,245,022603Kirkland
+Redmond,022603,246,022603Redmond
+King Co Urban,022604,247,022604King Co Urban
+Kirkland,022604,248,022604Kirkland
+Redmond,022604,249,022604Redmond
+King Co Urban,022605,250,022605King Co Urban
+Kirkland,022605,251,022605Kirkland
+Redmond,022605,252,022605Redmond
+Bellevue,022606,253,022606Bellevue
+Kirkland,022606,254,022606Kirkland
+Redmond,022606,255,022606Redmond
+Bellevue,022701,256,022701Bellevue
+Kirkland,022701,257,022701Kirkland
+Yarrow Point,022701,258,022701Yarrow Point
+Bellevue,022702,259,022702Bellevue
+Kirkland,022702,260,022702Kirkland
+Bellevue,022703,261,022703Bellevue
+King Co Urban,022703,262,022703King Co Urban
+Kirkland,022703,263,022703Kirkland
+Redmond,022703,264,022703Redmond
+Bellevue,022801,265,022801Bellevue
+Kirkland,022801,266,022801Kirkland
+Redmond,022801,267,022801Redmond
+Bellevue,022802,268,022802Bellevue
+Redmond,022802,269,022802Redmond
+Bellevue,022803,270,022803Bellevue
+Redmond,022803,271,022803Redmond
+Bellevue,022901,272,022901Bellevue
+Redmond,022901,273,022901Redmond
+Bellevue,022902,274,022902Bellevue
+King Co Urban,022902,275,022902King Co Urban
+Redmond,022902,276,022902Redmond
+Sammamish,022902,277,022902Sammamish
+Bellevue,023000,278,023000Bellevue
+Redmond,023000,279,023000Redmond
+Sammamish,023000,280,023000Sammamish
+Bellevue,023100,281,023100Bellevue
+Sammamish,023100,282,023100Sammamish
+Bellevue,023201,283,023201Bellevue
+Bellevue,023202,284,023202Bellevue
+Bellevue,023300,285,023300Bellevue
+Bellevue,023401,286,023401Bellevue
+Bellevue,023403,287,023403Bellevue
+Issaquah,023403,288,023403Issaquah
+Sammamish,023403,289,023403Sammamish
+Bellevue,023404,290,023404Bellevue
+Issaquah,023404,291,023404Issaquah
+Sammamish,023404,292,023404Sammamish
+Bellevue,023500,293,023500Bellevue
+Bellevue,023601,294,023601Bellevue
+Bellevue,023603,295,023603Bellevue
+Bellevue,023604,296,023604Bellevue
+Bellevue,023700,297,023700Bellevue
+King Co Urban,023700,298,023700King Co Urban
+Kirkland,023700,299,023700Kirkland
+Redmond,023700,300,023700Redmond
+Bellevue,023801,301,023801Bellevue
+Bellevue,023803,302,023803Bellevue
+Bellevue,023804,303,023804Bellevue
+Beaux Arts,023900,304,023900Beaux Arts
+Bellevue,023900,305,023900Bellevue
+King Co Urban,023900,306,023900King Co Urban
+Medina,023900,307,023900Medina
+Mercer Island,023900,308,023900Mercer Island
+Bellevue,024000,309,024000Bellevue
+Clyde Hill,024000,310,024000Clyde Hill
+Kirkland,024000,311,024000Kirkland
+Medina,024000,312,024000Medina
+Bellevue,024100,313,024100Bellevue
+Clyde Hill,024100,314,024100Clyde Hill
+Hunts Point,024100,315,024100Hunts Point
+Kirkland,024100,316,024100Kirkland
+Medina,024100,317,024100Medina
+Yarrow Point,024100,318,024100Yarrow Point
+Bellevue,024200,319,024200Bellevue
+Clyde Hill,024200,320,024200Clyde Hill
+Hunts Point,024200,321,024200Hunts Point
+Kirkland,024200,322,024200Kirkland
+Medina,024200,323,024200Medina
+Mercer Island,024200,324,024200Mercer Island
+Seattle,024200,325,024200Seattle
+Yarrow Point,024200,326,024200Yarrow Point
+Bellevue,024300,327,024300Bellevue
+Medina,024300,328,024300Medina
+Mercer Island,024300,329,024300Mercer Island
+Seattle,024300,330,024300Seattle
+Bellevue,024400,331,024400Bellevue
+Mercer Island,024400,332,024400Mercer Island
+Bellevue,024500,333,024500Bellevue
+Mercer Island,024500,334,024500Mercer Island
+Seattle,024500,335,024500Seattle
+Bellevue,024601,336,024601Bellevue
+King Co Urban,024601,337,024601King Co Urban
+Mercer Island,024601,338,024601Mercer Island
+Seattle,024601,339,024601Seattle
+Mercer Island,024602,340,024602Mercer Island
+Renton,024602,341,024602Renton
+Bellevue,024701,342,024701Bellevue
+Bellevue,024702,343,024702Bellevue
+King Co Urban,024702,344,024702King Co Urban
+Mercer Island,024702,345,024702Mercer Island
+Newcastle,024702,346,024702Newcastle
+Renton,024702,347,024702Renton
+Bellevue,024800,348,024800Bellevue
+Bellevue,024901,349,024901Bellevue
+Bellevue,024902,350,024902Bellevue
+Bellevue,024903,351,024903Bellevue
+Newcastle,024903,352,024903Newcastle
+Bellevue,025001,353,025001Bellevue
+Newcastle,025001,354,025001Newcastle
+Bellevue,025003,355,025003Bellevue
+Issaquah,025003,356,025003Issaquah
+King Co Urban,025003,357,025003King Co Urban
+Bellevue,025005,358,025005Bellevue
+King Co Rural,025005,359,025005King Co Rural
+King Co Urban,025005,360,025005King Co Urban
+Newcastle,025005,361,025005Newcastle
+Renton,025005,362,025005Renton
+Bellevue,025006,363,025006Bellevue
+Issaquah,025006,364,025006Issaquah
+King Co Rural,025006,365,025006King Co Rural
+King Co Urban,025006,366,025006King Co Urban
+King Co Urban,025101,367,025101King Co Urban
+Newcastle,025101,368,025101Newcastle
+Renton,025101,369,025101Renton
+King Co Rural,025102,370,025102King Co Rural
+King Co Urban,025102,371,025102King Co Urban
+Newcastle,025102,372,025102Newcastle
+Renton,025102,373,025102Renton
+King Co Urban,025200,374,025200King Co Urban
+Newcastle,025200,375,025200Newcastle
+Renton,025200,376,025200Renton
+Mercer Island,025301,377,025301Mercer Island
+Renton,025301,378,025301Renton
+King Co Urban,025302,379,025302King Co Urban
+Mercer Island,025302,380,025302Mercer Island
+Renton,025302,381,025302Renton
+Seattle,025302,382,025302Seattle
+Renton,025400,383,025400Renton
+Renton,025500,384,025500Renton
+Renton,025601,385,025601Renton
+King Co Urban,025602,386,025602King Co Urban
+Renton,025602,387,025602Renton
+Renton,025701,388,025701Renton
+King Co Urban,025702,389,025702King Co Urban
+Renton,025702,390,025702Renton
+Renton,025803,391,025803Renton
+King Co Urban,025804,392,025804King Co Urban
+Renton,025804,393,025804Renton
+Renton,025805,394,025805Renton
+Renton,025806,395,025806Renton
+King Co Urban,026001,396,026001King Co Urban
+Renton,026001,397,026001Renton
+Seattle,026001,398,026001Seattle
+King Co Urban,026002,399,026002King Co Urban
+Renton,026002,400,026002Renton
+King Co Urban,026100,401,026100King Co Urban
+Renton,026100,402,026100Renton
+Seattle,026100,403,026100Seattle
+Tukwila,026100,404,026100Tukwila
+King Co Urban,026200,405,026200King Co Urban
+Renton,026200,406,026200Renton
+Sea Tac,026200,407,026200Sea Tac
+Tukwila,026200,408,026200Tukwila
+King Co Urban,026300,409,026300King Co Urban
+Seattle,026300,410,026300Seattle
+Tukwila,026300,411,026300Tukwila
+Uninc,026300,412,026300Uninc
+Burien,026400,413,026400Burien
+King Co Urban,026400,414,026400King Co Urban
+Seattle,026400,415,026400Seattle
+Tukwila,026400,416,026400Tukwila
+Uninc,026400,417,026400Uninc
+King Co Urban,026500,418,026500King Co Urban
+Seattle,026500,419,026500Seattle
+King Co Urban,026600,420,026600King Co Urban
+Seattle,026600,421,026600Seattle
+Burien,026700,422,026700Burien
+King Co Urban,026700,423,026700King Co Urban
+Seattle,026700,424,026700Seattle
+Burien,026801,425,026801Burien
+King Co Urban,026801,426,026801King Co Urban
+Burien,026802,427,026802Burien
+King Co Urban,026802,428,026802King Co Urban
+Burien,027000,429,027000Burien
+King Co Urban,027000,430,027000King Co Urban
+Burien,027100,431,027100Burien
+Sea Tac,027100,432,027100Sea Tac
+Tukwila,027100,433,027100Tukwila
+Tukwila,027200,434,027200Tukwila
+Burien,027300,435,027300Burien
+Sea Tac,027300,436,027300Sea Tac
+Tukwila,027300,437,027300Tukwila
+Burien,027400,438,027400Burien
+Sea Tac,027400,439,027400Sea Tac
+Burien,027500,440,027500Burien
+Burien,027600,441,027600Burien
+King Co Rural,027701,442,027701King Co Rural
+King Co Rural,027702,443,027702King Co Rural
+Burien,027800,444,027800Burien
+Normandy Park,027800,445,027800Normandy Park
+Burien,027900,446,027900Burien
+Normandy Park,027900,447,027900Normandy Park
+Burien,028000,448,028000Burien
+Sea Tac,028000,449,028000Sea Tac
+Sea Tac,028100,450,028100Sea Tac
+Tukwila,028100,451,028100Tukwila
+Sea Tac,028200,452,028200Sea Tac
+Tukwila,028200,453,028200Tukwila
+Kent,028300,454,028300Kent
+King Co Urban,028300,455,028300King Co Urban
+Sea Tac,028300,456,028300Sea Tac
+Tukwila,028300,457,028300Tukwila
+Burien,028402,458,028402Burien
+Sea Tac,028402,459,028402Sea Tac
+Sea Tac,028403,460,028403Sea Tac
+Burien,028500,461,028500Burien
+Normandy Park,028500,462,028500Normandy Park
+Sea Tac,028500,463,028500Sea Tac
+Burien,028600,464,028600Burien
+Normandy Park,028600,465,028600Normandy Park
+Burien,028700,466,028700Burien
+Des Moines,028700,467,028700Des Moines
+Normandy Park,028700,468,028700Normandy Park
+Sea Tac,028700,469,028700Sea Tac
+Des Moines,028801,470,028801Des Moines
+Sea Tac,028801,471,028801Sea Tac
+Sea Tac,028802,472,028802Sea Tac
+Tukwila,028802,473,028802Tukwila
+Des Moines,028901,474,028901Des Moines
+Normandy Park,028901,475,028901Normandy Park
+Des Moines,028902,476,028902Des Moines
+Kent,028902,477,028902Kent
+Sea Tac,028902,478,028902Sea Tac
+Des Moines,029001,479,029001Des Moines
+Des Moines,029003,480,029003Des Moines
+Kent,029003,481,029003Kent
+Des Moines,029004,482,029004Des Moines
+Kent,029004,483,029004Kent
+Kent,029101,484,029101Kent
+King Co Urban,029101,485,029101King Co Urban
+Sea Tac,029101,486,029101Sea Tac
+Kent,029102,487,029102Kent
+King Co Urban,029102,488,029102King Co Urban
+Kent,029203,489,029203Kent
+Kent,029204,490,029204Kent
+Kent,029205,491,029205Kent
+Kent,029206,492,029206Kent
+Renton,029206,493,029206Renton
+Tukwila,029206,494,029206Tukwila
+Kent,029303,495,029303Kent
+Renton,029303,496,029303Renton
+Kent,029304,497,029304Kent
+King Co Urban,029304,498,029304King Co Urban
+Renton,029304,499,029304Renton
+Kent,029305,500,029305Kent
+Renton,029305,501,029305Renton
+Kent,029306,502,029306Kent
+Renton,029306,503,029306Renton
+Kent,029307,504,029307Kent
+King Co Rural,029307,505,029307King Co Rural
+King Co Urban,029307,506,029307King Co Urban
+Renton,029307,507,029307Renton
+Kent,029403,508,029403Kent
+Kent,029405,509,029405Kent
+Kent,029406,510,029406Kent
+Kent,029407,511,029407Kent
+Kent,029408,512,029408Kent
+Kent,029502,513,029502Kent
+Kent,029503,514,029503Kent
+Kent,029504,515,029504Kent
+Auburn,029601,516,029601Auburn
+Kent,029601,517,029601Kent
+Auburn,029602,518,029602Auburn
+Kent,029602,519,029602Kent
+Auburn,029700,520,029700Auburn
+Kent,029700,521,029700Kent
+King Co Rural,029700,522,029700King Co Rural
+King Co Urban,029700,523,029700King Co Urban
+Kent,029801,524,029801Kent
+King Co Rural,029801,525,029801King Co Rural
+King Co Urban,029801,526,029801King Co Urban
+Auburn,029802,527,029802Auburn
+Federal Way,029802,528,029802Federal Way
+Kent,029802,529,029802Kent
+King Co Rural,029802,530,029802King Co Rural
+King Co Urban,029802,531,029802King Co Urban
+Auburn,029901,532,029901Auburn
+Federal Way,029901,533,029901Federal Way
+King Co Urban,029901,534,029901King Co Urban
+Auburn,029902,535,029902Auburn
+King Co Urban,029902,536,029902King Co Urban
+Des Moines,030003,537,030003Des Moines
+Federal Way,030003,538,030003Federal Way
+Kent,030003,539,030003Kent
+Des Moines,030004,540,030004Des Moines
+Federal Way,030004,541,030004Federal Way
+Kent,030004,542,030004Kent
+Federal Way,030005,543,030005Federal Way
+Federal Way,030006,544,030006Federal Way
+Des Moines,030100,545,030100Des Moines
+Federal Way,030100,546,030100Federal Way
+Federal Way,030201,547,030201Federal Way
+Federal Way,030202,548,030202Federal Way
+Federal Way,030304,549,030304Federal Way
+Milton,030304,550,030304Milton
+Pierce Co Urban,030304,551,030304Pierce Co Urban
+Tacoma,030304,552,030304Tacoma
+Federal Way,030305,553,030305Federal Way
+Federal Way,030306,554,030306Federal Way
+Pierce Co Urban,030306,555,030306Pierce Co Urban
+Tacoma,030306,556,030306Tacoma
+Federal Way,030308,557,030308Federal Way
+Federal Way,030309,558,030309Federal Way
+Federal Way,030310,559,030310Federal Way
+Federal Way,030311,560,030311Federal Way
+Federal Way,030312,561,030312Federal Way
+Tacoma,030312,562,030312Tacoma
+Federal Way,030313,563,030313Federal Way
+Federal Way,030314,564,030314Federal Way
+Algona,030401,565,030401Algona
+Auburn,030401,566,030401Auburn
+Federal Way,030401,567,030401Federal Way
+King Co Urban,030401,568,030401King Co Urban
+Edgewood,030403,569,030403Edgewood
+Federal Way,030403,570,030403Federal Way
+King Co Urban,030403,571,030403King Co Urban
+Milton,030403,572,030403Milton
+Algona,030404,573,030404Algona
+Edgewood,030404,574,030404Edgewood
+King Co Urban,030404,575,030404King Co Urban
+Milton,030404,576,030404Milton
+Pacific,030404,577,030404Pacific
+Auburn,030501,578,030501Auburn
+King Co Rural,030501,579,030501King Co Rural
+King Co Urban,030501,580,030501King Co Urban
+Auburn,030503,581,030503Auburn
+Kent,030503,582,030503Kent
+King Co Rural,030503,583,030503King Co Rural
+King Co Urban,030503,584,030503King Co Urban
+Auburn,030504,585,030504Auburn
+Auburn,030600,586,030600Auburn
+King Co Rural,030600,587,030600King Co Rural
+Auburn,030700,588,030700Auburn
+Algona,030801,589,030801Algona
+Auburn,030801,590,030801Auburn
+King Co Urban,030801,591,030801King Co Urban
+Pacific,030801,592,030801Pacific
+Auburn,030802,593,030802Auburn
+Algona,030901,594,030901Algona
+Auburn,030901,595,030901Auburn
+King Co Urban,030901,596,030901King Co Urban
+Pacific,030901,597,030901Pacific
+Algona,030902,598,030902Algona
+Auburn,030902,599,030902Auburn
+Pacific,030902,600,030902Pacific
+Pierce Co Urban,030902,601,030902Pierce Co Urban
+Sumner,030902,602,030902Sumner
+Auburn,031000,603,031000Auburn
+King Co Rural,031000,604,031000King Co Rural
+King Co Urban,031000,605,031000King Co Urban
+Pacific,031000,606,031000Pacific
+Pierce Co Rural,031000,607,031000Pierce Co Rural
+Pierce Co Urban,031000,608,031000Pierce Co Urban
+Auburn,031100,609,031100Auburn
+King Co Rural,031100,610,031100King Co Rural
+Auburn,031202,611,031202Auburn
+Enumclaw,031202,612,031202Enumclaw
+King Co Rural,031202,613,031202King Co Rural
+King Co Urban,031202,614,031202King Co Urban
+Pierce Co Rural,031202,615,031202Pierce Co Rural
+Auburn,031204,616,031204Auburn
+King Co Rural,031204,617,031204King Co Rural
+Auburn,031205,618,031205Auburn
+Kent,031205,619,031205Kent
+King Co Rural,031205,620,031205King Co Rural
+Auburn,031206,621,031206Auburn
+King Co Rural,031206,622,031206King Co Rural
+Buckley,031301,623,031301Buckley
+Enumclaw,031301,624,031301Enumclaw
+King Co Rural,031301,625,031301King Co Rural
+King Co Urban,031301,626,031301King Co Urban
+Pierce Co Rural,031301,627,031301Pierce Co Rural
+Buckley,031302,628,031302Buckley
+Enumclaw,031302,629,031302Enumclaw
+King Co Rural,031302,630,031302King Co Rural
+King Co Urban,031302,631,031302King Co Urban
+Enumclaw,031400,632,031400Enumclaw
+King Co Rural,031400,633,031400King Co Rural
+King Co Urban,031400,634,031400King Co Urban
+Black Diamond,031501,635,031501Black Diamond
+King Co Rural,031501,636,031501King Co Rural
+Buckley,031502,637,031502Buckley
+Enumclaw,031502,638,031502Enumclaw
+King Co Rural,031502,639,031502King Co Rural
+King Co Urban,031502,640,031502King Co Urban
+Pierce Co Rural,031502,641,031502Pierce Co Rural
+Black Diamond,031601,642,031601Black Diamond
+King Co Rural,031601,643,031601King Co Rural
+King Co Urban,031601,644,031601King Co Urban
+Black Diamond,031603,645,031603Black Diamond
+Kent,031603,646,031603Kent
+King Co Rural,031603,647,031603King Co Rural
+King Co Urban,031603,648,031603King Co Urban
+Maple Valley,031603,649,031603Maple Valley
+Black Diamond,031604,650,031604Black Diamond
+Kent,031604,651,031604Kent
+King Co Rural,031604,652,031604King Co Rural
+Maple Valley,031604,653,031604Maple Valley
+Black Diamond,031605,654,031605Black Diamond
+King Co Rural,031605,655,031605King Co Rural
+King Co Urban,031605,656,031605King Co Urban
+Covington,031703,657,031703Covington
+Kent,031703,658,031703Kent
+King Co Rural,031703,659,031703King Co Rural
+King Co Urban,031703,660,031703King Co Urban
+Auburn,031704,661,031704Auburn
+Covington,031704,662,031704Covington
+Kent,031704,663,031704Kent
+King Co Rural,031704,664,031704King Co Rural
+Covington,031705,665,031705Covington
+King Co Rural,031705,666,031705King Co Rural
+Covington,031706,667,031706Covington
+Kent,031706,668,031706Kent
+Covington,031800,669,031800Covington
+Kent,031800,670,031800Kent
+King Co Rural,031800,671,031800King Co Rural
+King Co Urban,031800,672,031800King Co Urban
+King Co Rural,031903,673,031903King Co Rural
+King Co Urban,031903,674,031903King Co Urban
+Renton,031903,675,031903Renton
+King Co Rural,031904,676,031904King Co Rural
+King Co Urban,031904,677,031904King Co Urban
+King Co Rural,031906,678,031906King Co Rural
+King Co Urban,031906,679,031906King Co Urban
+Renton,031906,680,031906Renton
+King Co Rural,031907,681,031907King Co Rural
+King Co Urban,031907,682,031907King Co Urban
+Renton,031907,683,031907Renton
+King Co Urban,031908,684,031908King Co Urban
+King Co Rural,031909,685,031909King Co Rural
+King Co Urban,031909,686,031909King Co Urban
+King Co Rural,032002,687,032002King Co Rural
+King Co Urban,032002,688,032002King Co Urban
+King Co Rural,032003,689,032003King Co Rural
+King Co Urban,032003,690,032003King Co Urban
+Maple Valley,032003,691,032003Maple Valley
+Covington,032005,692,032005Covington
+King Co Rural,032005,693,032005King Co Rural
+King Co Urban,032005,694,032005King Co Urban
+Black Diamond,032006,695,032006Black Diamond
+Covington,032006,696,032006Covington
+Kent,032006,697,032006Kent
+King Co Rural,032006,698,032006King Co Rural
+King Co Urban,032006,699,032006King Co Urban
+Maple Valley,032006,700,032006Maple Valley
+Covington,032007,701,032007Covington
+King Co Rural,032007,702,032007King Co Rural
+King Co Urban,032007,703,032007King Co Urban
+Maple Valley,032007,704,032007Maple Valley
+Covington,032008,705,032008Covington
+King Co Rural,032008,706,032008King Co Rural
+King Co Urban,032008,707,032008King Co Urban
+Maple Valley,032008,708,032008Maple Valley
+Kent,032010,709,032010Kent
+King Co Rural,032010,710,032010King Co Rural
+King Co Urban,032010,711,032010King Co Urban
+Maple Valley,032010,712,032010Maple Valley
+Maple Valley,032011,713,032011Maple Valley
+Issaquah,032102,714,032102Issaquah
+King Co Rural,032102,715,032102King Co Rural
+Issaquah,032103,716,032103Issaquah
+King Co Rural,032103,717,032103King Co Rural
+Issaquah,032104,718,032104Issaquah
+King Co Rural,032104,719,032104King Co Rural
+Bellevue,032203,720,032203Bellevue
+Issaquah,032203,721,032203Issaquah
+Sammamish,032203,722,032203Sammamish
+Issaquah,032207,723,032207Issaquah
+Sammamish,032207,724,032207Sammamish
+Issaquah,032208,725,032208Issaquah
+King Co Urban,032208,726,032208King Co Urban
+Sammamish,032208,727,032208Sammamish
+Issaquah,032210,728,032210Issaquah
+King Co Rural,032210,729,032210King Co Rural
+King Co Urban,032210,730,032210King Co Urban
+Sammamish,032210,731,032210Sammamish
+King Co Urban,032211,732,032211King Co Urban
+Sammamish,032211,733,032211Sammamish
+Issaquah,032212,734,032212Issaquah
+King Co Urban,032212,735,032212King Co Urban
+Sammamish,032212,736,032212Sammamish
+King Co Rural,032213,737,032213King Co Rural
+King Co Urban,032213,738,032213King Co Urban
+Sammamish,032213,739,032213Sammamish
+King Co Rural,032214,740,032214King Co Rural
+King Co Urban,032214,741,032214King Co Urban
+Sammamish,032214,742,032214Sammamish
+King Co Rural,032215,743,032215King Co Rural
+King Co Urban,032215,744,032215King Co Urban
+Sammamish,032215,745,032215Sammamish
+King Co Rural,032307,746,032307King Co Rural
+Snohomish Co Rural,032307,747,032307Snohomish Co Rural
+Redmond,032309,748,032309Redmond
+King Co Rural,032311,749,032311King Co Rural
+Snohomish Co Rural,032311,750,032311Snohomish Co Rural
+King Co Rural,032313,751,032313King Co Rural
+King Co Urban,032313,752,032313King Co Urban
+Redmond,032313,753,032313Redmond
+Sammamish,032313,754,032313Sammamish
+Bear Creek UPD,032315,755,032315Bear Creek UPD
+King Co Rural,032315,756,032315King Co Rural
+Bellevue,032316,757,032316Bellevue
+King Co Rural,032316,758,032316King Co Rural
+King Co Urban,032316,759,032316King Co Urban
+Redmond,032316,760,032316Redmond
+Sammamish,032316,761,032316Sammamish
+King Co Rural,032317,762,032317King Co Rural
+Sammamish,032317,763,032317Sammamish
+King Co Rural,032318,764,032318King Co Rural
+King Co Urban,032318,765,032318King Co Urban
+Sammamish,032318,766,032318Sammamish
+Bothell,032319,767,032319Bothell
+King Co Rural,032319,768,032319King Co Rural
+King Co Urban,032319,769,032319King Co Urban
+Woodinville,032319,770,032319Woodinville
+King Co Rural,032320,771,032320King Co Rural
+King Co Urban,032320,772,032320King Co Urban
+Woodinville,032320,773,032320Woodinville
+King Co Rural,032321,774,032321King Co Rural
+King Co Urban,032321,775,032321King Co Urban
+Kirkland,032321,776,032321Kirkland
+Redmond,032321,777,032321Redmond
+Woodinville,032321,778,032321Woodinville
+King Co Rural,032322,779,032322King Co Rural
+King Co Urban,032322,780,032322King Co Urban
+Redmond,032323,781,032323Redmond
+Redmond,032324,782,032324Redmond
+Redmond,032325,783,032325Redmond
+King Co Rural,032326,784,032326King Co Rural
+King Co Urban,032326,785,032326King Co Urban
+Redmond,032326,786,032326Redmond
+Bear Creek UPD,032327,787,032327Bear Creek UPD
+King Co Rural,032327,788,032327King Co Rural
+Redmond,032327,789,032327Redmond
+King Co Rural,032328,790,032328King Co Rural
+Bear Creek UPD,032329,791,032329Bear Creek UPD
+King Co Rural,032329,792,032329King Co Rural
+Duvall,032401,793,032401Duvall
+King Co Rural,032401,794,032401King Co Rural
+King Co Urban,032401,795,032401King Co Urban
+Snohomish Co Rural,032401,796,032401Snohomish Co Rural
+Duvall,032402,797,032402Duvall
+King Co Rural,032402,798,032402King Co Rural
+King Co Urban,032402,799,032402King Co Urban
+Carnation,032500,800,032500Carnation
+King Co Rural,032500,801,032500King Co Rural
+King Co Urban,032500,802,032500King Co Urban
+Snohomish Co Rural,032500,803,032500Snohomish Co Rural
+King Co Rural,032601,804,032601King Co Rural
+King Co Rural,032602,805,032602King Co Rural
+King Co Urban,032602,806,032602King Co Urban
+Snoqualmie,032602,807,032602Snoqualmie
+King Co Rural,032702,808,032702King Co Rural
+King Co Urban,032702,809,032702King Co Urban
+North Bend,032702,810,032702North Bend
+Snoqualmie,032702,811,032702Snoqualmie
+King Co Rural,032703,812,032703King Co Rural
+King Co Urban,032703,813,032703King Co Urban
+North Bend,032703,814,032703North Bend
+Snoqualmie,032703,815,032703Snoqualmie
+King Co Rural,032704,816,032704King Co Rural
+King Co Urban,032704,817,032704King Co Urban
+North Bend,032704,818,032704North Bend
+Snoqualmie,032704,819,032704Snoqualmie
+King Co Rural,032800,820,032800King Co Rural
+King Co Urban,032800,821,032800King Co Urban
+North Bend,032800,822,032800North Bend
+Skykomish,032800,823,032800Skykomish
+Snohomish Co Rural,032800,824,032800Snohomish Co Rural
+Snoqualmie,032800,825,032800Snoqualmie
+Everett,040100,826,040100Everett
+Snohomish Co Urban,040100,827,040100Snohomish Co Urban
+Everett,040200,828,040200Everett
+Everett,040300,829,040300Everett
+Everett,040400,830,040400Everett
+Everett,040500,831,040500Everett
+Snohomish Co Rural,040500,832,040500Snohomish Co Rural
+Everett,040700,833,040700Everett
+Snohomish Co Rural,040700,834,040700Snohomish Co Rural
+Everett,040800,835,040800Everett
+Everett,040900,836,040900Everett
+Everett,041000,837,041000Everett
+Everett,041100,838,041100Everett
+Everett,041201,839,041201Everett
+Everett,041202,840,041202Everett
+Everett,041301,841,041301Everett
+Mukilteo,041301,842,041301Mukilteo
+Everett,041303,843,041303Everett
+Everett,041304,844,041304Everett
+Mukilteo,041304,845,041304Mukilteo
+Snohomish Co Urban,041304,846,041304Snohomish Co Urban
+Everett,041400,847,041400Everett
+Everett,041500,848,041500Everett
+Snohomish Co Rural,041500,849,041500Snohomish Co Rural
+Everett,041601,850,041601Everett
+Snohomish Co Urban,041601,851,041601Snohomish Co Urban
+Everett,041605,852,041605Everett
+Snohomish Co Urban,041605,853,041605Snohomish Co Urban
+Everett,041606,854,041606Everett
+Mill Creek,041606,855,041606Mill Creek
+Snohomish Co Urban,041606,856,041606Snohomish Co Urban
+Snohomish Co Rural,041607,857,041607Snohomish Co Rural
+Snohomish Co Urban,041607,858,041607Snohomish Co Urban
+Mill Creek,041608,859,041608Mill Creek
+Snohomish Co Urban,041608,860,041608Snohomish Co Urban
+Everett,041701,861,041701Everett
+Mill Creek,041701,862,041701Mill Creek
+Snohomish Co Urban,041701,863,041701Snohomish Co Urban
+Snohomish Co Urban,041703,864,041703Snohomish Co Urban
+Mill Creek,041704,865,041704Mill Creek
+Snohomish Co Urban,041704,866,041704Snohomish Co Urban
+Everett,041805,867,041805Everett
+Everett,041806,868,041806Everett
+Snohomish Co Urban,041806,869,041806Snohomish Co Urban
+Everett,041808,870,041808Everett
+Snohomish Co Urban,041808,871,041808Snohomish Co Urban
+Everett,041809,872,041809Everett
+Snohomish Co Urban,041809,873,041809Snohomish Co Urban
+Everett,041810,874,041810Everett
+Snohomish Co Urban,041810,875,041810Snohomish Co Urban
+Snohomish Co Urban,041811,876,041811Snohomish Co Urban
+Everett,041812,877,041812Everett
+Snohomish Co Urban,041812,878,041812Snohomish Co Urban
+Everett,041901,879,041901Everett
+Mukilteo,041901,880,041901Mukilteo
+Snohomish Co Urban,041901,881,041901Snohomish Co Urban
+Everett,041903,882,041903Everett
+Snohomish Co Urban,041903,883,041903Snohomish Co Urban
+Everett,041904,884,041904Everett
+Everett,041905,885,041905Everett
+Snohomish Co Urban,041905,886,041905Snohomish Co Urban
+Mukilteo,042001,887,042001Mukilteo
+Snohomish Co Urban,042003,888,042003Snohomish Co Urban
+Mukilteo,042004,889,042004Mukilteo
+Snohomish Co Urban,042004,890,042004Snohomish Co Urban
+Mukilteo,042005,891,042005Mukilteo
+Snohomish Co Urban,042005,892,042005Snohomish Co Urban
+Mukilteo,042006,893,042006Mukilteo
+Edmonds,050101,894,050101Edmonds
+Lynnwood,050101,895,050101Lynnwood
+Snohomish Co Urban,050101,896,050101Snohomish Co Urban
+Lynnwood,050102,897,050102Lynnwood
+Snohomish Co Urban,050102,898,050102Snohomish Co Urban
+Edmonds,050200,899,050200Edmonds
+Lynnwood,050200,900,050200Lynnwood
+Snohomish Co Urban,050200,901,050200Snohomish Co Urban
+Edmonds,050300,902,050300Edmonds
+Lynnwood,050300,903,050300Lynnwood
+Edmonds,050401,904,050401Edmonds
+Lynnwood,050401,905,050401Lynnwood
+Edmonds,050402,906,050402Edmonds
+Edmonds,050500,907,050500Edmonds
+Woodway,050500,908,050500Woodway
+Edmonds,050600,909,050600Edmonds
+Shoreline,050600,910,050600Shoreline
+Snohomish Co Urban,050600,911,050600Snohomish Co Urban
+Woodway,050600,912,050600Woodway
+Edmonds,050700,913,050700Edmonds
+Shoreline,050700,914,050700Shoreline
+Snohomish Co Urban,050700,915,050700Snohomish Co Urban
+Woodway,050700,916,050700Woodway
+Edmonds,050800,917,050800Edmonds
+Snohomish Co Urban,050800,918,050800Snohomish Co Urban
+Edmonds,050900,919,050900Edmonds
+Mountlake Terrace,050900,920,050900Mountlake Terrace
+Edmonds,051000,921,051000Edmonds
+Lynnwood,051000,922,051000Lynnwood
+Mountlake Terrace,051000,923,051000Mountlake Terrace
+Snohomish Co Urban,051000,924,051000Snohomish Co Urban
+Mountlake Terrace,051100,925,051100Mountlake Terrace
+Shoreline,051100,926,051100Shoreline
+Snohomish Co Urban,051100,927,051100Snohomish Co Urban
+Lynnwood,051200,928,051200Lynnwood
+Mountlake Terrace,051200,929,051200Mountlake Terrace
+Brier,051300,930,051300Brier
+Lake Forest Park,051300,931,051300Lake Forest Park
+Lynnwood,051300,932,051300Lynnwood
+Mountlake Terrace,051300,933,051300Mountlake Terrace
+Snohomish Co Urban,051300,934,051300Snohomish Co Urban
+Edmonds,051400,935,051400Edmonds
+Lynnwood,051400,936,051400Lynnwood
+Mountlake Terrace,051400,937,051400Mountlake Terrace
+Edmonds,051500,938,051500Edmonds
+Lynnwood,051500,939,051500Lynnwood
+Edmonds,051601,940,051601Edmonds
+Lynnwood,051601,941,051601Lynnwood
+Snohomish Co Urban,051601,942,051601Snohomish Co Urban
+Lynnwood,051602,943,051602Lynnwood
+Lynnwood,051701,944,051701Lynnwood
+Lynnwood,051702,945,051702Lynnwood
+Lynnwood,051802,946,051802Lynnwood
+Snohomish Co Urban,051802,947,051802Snohomish Co Urban
+Lynnwood,051803,948,051803Lynnwood
+Snohomish Co Urban,051803,949,051803Snohomish Co Urban
+Snohomish Co Urban,051804,950,051804Snohomish Co Urban
+Brier,051905,951,051905Brier
+Lynnwood,051905,952,051905Lynnwood
+Mountlake Terrace,051905,953,051905Mountlake Terrace
+Snohomish Co Urban,051905,954,051905Snohomish Co Urban
+King Co Rural,051912,955,051912King Co Rural
+Snohomish Co Rural,051912,956,051912Snohomish Co Rural
+Snohomish Co Urban,051912,957,051912Snohomish Co Urban
+Woodinville,051912,958,051912Woodinville
+Brier,051913,959,051913Brier
+Mountlake Terrace,051913,960,051913Mountlake Terrace
+Snohomish Co Urban,051913,961,051913Snohomish Co Urban
+Brier,051914,962,051914Brier
+Kenmore,051914,963,051914Kenmore
+Lake Forest Park,051914,964,051914Lake Forest Park
+Mountlake Terrace,051914,965,051914Mountlake Terrace
+Snohomish Co Urban,051914,966,051914Snohomish Co Urban
+Bothell,051915,967,051915Bothell
+Snohomish Co Urban,051915,968,051915Snohomish Co Urban
+Bothell,051916,969,051916Bothell
+Snohomish Co Urban,051916,970,051916Snohomish Co Urban
+Bothell,051917,971,051917Bothell
+Kenmore,051917,972,051917Kenmore
+Snohomish Co Urban,051917,973,051917Snohomish Co Urban
+Bothell,051918,974,051918Bothell
+Kenmore,051918,975,051918Kenmore
+Bothell,051921,976,051921Bothell
+Snohomish Co Urban,051921,977,051921Snohomish Co Urban
+Bothell,051922,978,051922Bothell
+Snohomish Co Urban,051922,979,051922Snohomish Co Urban
+Mill Creek,051923,980,051923Mill Creek
+Snohomish Co Urban,051923,981,051923Snohomish Co Urban
+Bothell,051924,982,051924Bothell
+Snohomish Co Urban,051924,983,051924Snohomish Co Urban
+Bothell,051925,984,051925Bothell
+Snohomish Co Rural,051925,985,051925Snohomish Co Rural
+Snohomish Co Urban,051925,986,051925Snohomish Co Urban
+Bothell,051926,987,051926Bothell
+Snohomish Co Rural,051926,988,051926Snohomish Co Rural
+Snohomish Co Urban,051926,989,051926Snohomish Co Urban
+Woodinville,051926,990,051926Woodinville
+Mill Creek,051927,991,051927Mill Creek
+Snohomish Co Urban,051927,992,051927Snohomish Co Urban
+Snohomish Co Urban,051928,993,051928Snohomish Co Urban
+Mill Creek,052003,994,052003Mill Creek
+Snohomish Co Rural,052003,995,052003Snohomish Co Rural
+Snohomish Co Urban,052003,996,052003Snohomish Co Urban
+Mill Creek,052004,997,052004Mill Creek
+Mill Creek,052005,998,052005Mill Creek
+Snohomish Co Urban,052005,999,052005Snohomish Co Urban
+Mill Creek,052006,1000,052006Mill Creek
+Snohomish Co Urban,052006,1001,052006Snohomish Co Urban
+Mill Creek,052007,1002,052007Mill Creek
+Snohomish Co Urban,052007,1003,052007Snohomish Co Urban
+Everett,052104,1004,052104Everett
+Lake Stevens,052104,1005,052104Lake Stevens
+Marysville,052104,1006,052104Marysville
+Snohomish Co Rural,052104,1007,052104Snohomish Co Rural
+Snohomish Co Urban,052104,1008,052104Snohomish Co Urban
+Everett,052105,1009,052105Everett
+Snohomish,052105,1010,052105Snohomish
+Snohomish Co Rural,052105,1011,052105Snohomish Co Rural
+Snohomish Co Urban,052105,1012,052105Snohomish Co Urban
+Snohomish Co Rural,052107,1013,052107Snohomish Co Rural
+Snohomish Co Urban,052107,1014,052107Snohomish Co Urban
+Snohomish Co Rural,052108,1015,052108Snohomish Co Rural
+Snohomish Co Urban,052108,1016,052108Snohomish Co Urban
+King Co Rural,052112,1017,052112King Co Rural
+Snohomish Co Rural,052112,1018,052112Snohomish Co Rural
+Snohomish Co Urban,052112,1019,052112Snohomish Co Urban
+King Co Rural,052113,1020,052113King Co Rural
+Snohomish Co Rural,052113,1021,052113Snohomish Co Rural
+Snohomish Co Rural,052114,1022,052114Snohomish Co Rural
+Snohomish Co Urban,052114,1023,052114Snohomish Co Urban
+Snohomish Co Urban,052115,1024,052115Snohomish Co Urban
+Snohomish Co Rural,052118,1025,052118Snohomish Co Rural
+Snohomish Co Urban,052118,1026,052118Snohomish Co Urban
+Monroe,052203,1027,052203Monroe
+Snohomish Co Rural,052203,1028,052203Snohomish Co Rural
+Snohomish Co Urban,052203,1029,052203Snohomish Co Urban
+Monroe,052204,1030,052204Monroe
+Snohomish Co Rural,052204,1031,052204Snohomish Co Rural
+Snohomish Co Urban,052204,1032,052204Snohomish Co Urban
+Monroe,052206,1033,052206Monroe
+Snohomish Co Rural,052206,1034,052206Snohomish Co Rural
+Snohomish Co Urban,052206,1035,052206Snohomish Co Urban
+Everett,052207,1036,052207Everett
+Monroe,052207,1037,052207Monroe
+Snohomish Co Rural,052207,1038,052207Snohomish Co Rural
+Snohomish Co Urban,052207,1039,052207Snohomish Co Urban
+Monroe,052208,1040,052208Monroe
+Monroe,052209,1041,052209Monroe
+Snohomish Co Rural,052209,1042,052209Snohomish Co Rural
+Snohomish Co Urban,052209,1043,052209Snohomish Co Urban
+Snohomish,052301,1044,052301Snohomish
+Snohomish Co Rural,052301,1045,052301Snohomish Co Rural
+Snohomish,052302,1046,052302Snohomish
+Snohomish Co Rural,052302,1047,052302Snohomish Co Rural
+Snohomish Co Urban,052302,1048,052302Snohomish Co Urban
+Snohomish,052401,1049,052401Snohomish
+Snohomish Co Rural,052401,1050,052401Snohomish Co Rural
+Snohomish Co Urban,052401,1051,052401Snohomish Co Urban
+Snohomish,052402,1052,052402Snohomish
+Snohomish Co Rural,052402,1053,052402Snohomish Co Rural
+Snohomish Co Urban,052402,1054,052402Snohomish Co Urban
+Snohomish,052502,1055,052502Snohomish
+Snohomish Co Rural,052502,1056,052502Snohomish Co Rural
+Snohomish Co Urban,052502,1057,052502Snohomish Co Urban
+Lake Stevens,052503,1058,052503Lake Stevens
+Snohomish Co Urban,052503,1059,052503Snohomish Co Urban
+Lake Stevens,052504,1060,052504Lake Stevens
+Snohomish,052504,1061,052504Snohomish
+Snohomish Co Rural,052504,1062,052504Snohomish Co Rural
+Snohomish Co Urban,052504,1063,052504Snohomish Co Urban
+Lake Stevens,052603,1064,052603Lake Stevens
+Snohomish Co Rural,052603,1065,052603Snohomish Co Rural
+Snohomish Co Urban,052603,1066,052603Snohomish Co Urban
+Lake Stevens,052604,1067,052604Lake Stevens
+Snohomish Co Urban,052604,1068,052604Snohomish Co Urban
+Lake Stevens,052605,1069,052605Lake Stevens
+Snohomish Co Rural,052605,1070,052605Snohomish Co Rural
+Snohomish Co Urban,052605,1071,052605Snohomish Co Urban
+Lake Stevens,052606,1072,052606Lake Stevens
+Snohomish Co Rural,052606,1073,052606Snohomish Co Rural
+Snohomish Co Urban,052606,1074,052606Snohomish Co Urban
+Lake Stevens,052607,1075,052607Lake Stevens
+Snohomish Co Rural,052607,1076,052607Snohomish Co Rural
+Snohomish Co Urban,052607,1077,052607Snohomish Co Urban
+Arlington,052701,1078,052701Arlington
+Marysville,052701,1079,052701Marysville
+Snohomish Co Rural,052701,1080,052701Snohomish Co Rural
+Snohomish Co Urban,052701,1081,052701Snohomish Co Urban
+Marysville,052705,1082,052705Marysville
+Snohomish Co Rural,052705,1083,052705Snohomish Co Rural
+Snohomish Co Urban,052705,1084,052705Snohomish Co Urban
+Lake Stevens,052706,1085,052706Lake Stevens
+Marysville,052706,1086,052706Marysville
+Snohomish Co Rural,052706,1087,052706Snohomish Co Rural
+Snohomish Co Urban,052706,1088,052706Snohomish Co Urban
+Lake Stevens,052707,1089,052707Lake Stevens
+Marysville,052707,1090,052707Marysville
+Snohomish Co Rural,052707,1091,052707Snohomish Co Rural
+Snohomish Co Urban,052707,1092,052707Snohomish Co Urban
+Marysville,052708,1093,052708Marysville
+Marysville,052709,1094,052709Marysville
+Snohomish Co Rural,052709,1095,052709Snohomish Co Rural
+Snohomish Co Urban,052709,1096,052709Snohomish Co Urban
+Arlington,052803,1097,052803Arlington
+Marysville,052803,1098,052803Marysville
+Snohomish Co Rural,052803,1099,052803Snohomish Co Rural
+Snohomish Co Urban,052803,1100,052803Snohomish Co Urban
+Marysville,052804,1101,052804Marysville
+Snohomish Co Rural,052804,1102,052804Snohomish Co Rural
+Marysville,052805,1103,052805Marysville
+Snohomish Co Rural,052805,1104,052805Snohomish Co Rural
+Marysville,052806,1105,052806Marysville
+Marysville,052903,1106,052903Marysville
+Snohomish Co Rural,052903,1107,052903Snohomish Co Rural
+Snohomish Co Urban,052903,1108,052903Snohomish Co Urban
+Marysville,052904,1109,052904Marysville
+Snohomish Co Rural,052904,1110,052904Snohomish Co Rural
+Marysville,052905,1111,052905Marysville
+Snohomish Co Rural,052905,1112,052905Snohomish Co Rural
+Marysville,052906,1113,052906Marysville
+Arlington,053101,1114,053101Arlington
+Marysville,053101,1115,053101Marysville
+Snohomish Co Rural,053101,1116,053101Snohomish Co Rural
+Snohomish Co Urban,053101,1117,053101Snohomish Co Urban
+Arlington,053102,1118,053102Arlington
+Marysville,053102,1119,053102Marysville
+Snohomish Co Rural,053102,1120,053102Snohomish Co Rural
+Snohomish Co Urban,053102,1121,053102Snohomish Co Urban
+Out of Region,053201,1122,053201Out of Region
+Snohomish Co Rural,053201,1123,053201Snohomish Co Rural
+Snohomish Co Urban,053201,1124,053201Snohomish Co Urban
+Stanwood,053201,1125,053201Stanwood
+Snohomish Co Rural,053202,1126,053202Snohomish Co Rural
+Out of Region,053301,1127,053301Out of Region
+Snohomish Co Rural,053301,1128,053301Snohomish Co Rural
+Snohomish Co Urban,053301,1129,053301Snohomish Co Urban
+Stanwood,053301,1130,053301Stanwood
+Snohomish Co Rural,053302,1131,053302Snohomish Co Rural
+Snohomish Co Urban,053302,1132,053302Snohomish Co Urban
+Stanwood,053302,1133,053302Stanwood
+Snohomish Co Rural,053400,1134,053400Snohomish Co Rural
+Snohomish Co Urban,053400,1135,053400Snohomish Co Urban
+Arlington,053504,1136,053504Arlington
+Snohomish Co Rural,053504,1137,053504Snohomish Co Rural
+Snohomish Co Urban,053504,1138,053504Snohomish Co Urban
+Arlington,053505,1139,053505Arlington
+Granite Falls,053505,1140,053505Granite Falls
+Snohomish Co Rural,053505,1141,053505Snohomish Co Rural
+Arlington,053506,1142,053506Arlington
+Snohomish Co Rural,053506,1143,053506Snohomish Co Rural
+Arlington,053507,1144,053507Arlington
+Snohomish Co Urban,053507,1145,053507Snohomish Co Urban
+Arlington,053508,1146,053508Arlington
+Snohomish Co Rural,053508,1147,053508Snohomish Co Rural
+Snohomish Co Urban,053508,1148,053508Snohomish Co Urban
+Arlington,053509,1149,053509Arlington
+Snohomish Co Urban,053509,1150,053509Snohomish Co Urban
+Everett,053602,1151,053602Everett
+Granite Falls,053602,1152,053602Granite Falls
+Snohomish,053602,1153,053602Snohomish
+Snohomish Co Rural,053602,1154,053602Snohomish Co Rural
+Snohomish Co Urban,053602,1155,053602Snohomish Co Urban
+Granite Falls,053603,1156,053603Granite Falls
+Snohomish Co Rural,053603,1157,053603Snohomish Co Rural
+Granite Falls,053604,1158,053604Granite Falls
+Snohomish Co Rural,053604,1159,053604Snohomish Co Rural
+Snohomish Co Urban,053604,1160,053604Snohomish Co Urban
+Darrington,053700,1161,053700Darrington
+Snohomish Co Rural,053700,1162,053700Snohomish Co Rural
+Snohomish Co Urban,053700,1163,053700Snohomish Co Urban
+Index,053801,1164,053801Index
+King Co Rural,053801,1165,053801King Co Rural
+Monroe,053801,1166,053801Monroe
+Snohomish Co Rural,053801,1167,053801Snohomish Co Rural
+Sultan,053801,1168,053801Sultan
+Snohomish Co Rural,053802,1169,053802Snohomish Co Rural
+Snohomish Co Urban,053802,1170,053802Snohomish Co Urban
+Sultan,053802,1171,053802Sultan
+Everett,053803,1172,053803Everett
+Gold Bar,053803,1173,053803Gold Bar
+Snohomish Co Rural,053803,1174,053803Snohomish Co Rural
+Snohomish Co Urban,053803,1175,053803Snohomish Co Urban
+Sultan,053803,1176,053803Sultan
+Fife,060200,1177,060200Fife
+Pierce Co Urban,060200,1178,060200Pierce Co Urban
+Tacoma,060200,1179,060200Tacoma
+King Co Rural,060300,1180,060300King Co Rural
+Pierce Co Rural,060300,1181,060300Pierce Co Rural
+Pierce Co Urban,060300,1182,060300Pierce Co Urban
+Ruston,060300,1183,060300Ruston
+Tacoma,060300,1184,060300Tacoma
+Tacoma,060400,1185,060400Tacoma
+Tacoma,060500,1186,060500Tacoma
+Tacoma,060600,1187,060600Tacoma
+Tacoma,060700,1188,060700Tacoma
+Tacoma,060800,1189,060800Tacoma
+Pierce Co Rural,060903,1190,060903Pierce Co Rural
+Tacoma,060903,1191,060903Tacoma
+Tacoma,060904,1192,060904Tacoma
+Pierce Co Rural,060905,1193,060905Pierce Co Rural
+Tacoma,060905,1194,060905Tacoma
+Tacoma,060906,1195,060906Tacoma
+Pierce Co Rural,061001,1196,061001Pierce Co Rural
+Tacoma,061001,1197,061001Tacoma
+University Place,061001,1198,061001University Place
+Fircrest,061002,1199,061002Fircrest
+Tacoma,061002,1200,061002Tacoma
+University Place,061002,1201,061002University Place
+Tacoma,061100,1202,061100Tacoma
+Tacoma,061200,1203,061200Tacoma
+Tacoma,061300,1204,061300Tacoma
+Tacoma,061400,1205,061400Tacoma
+Tacoma,061500,1206,061500Tacoma
+Tacoma,061601,1207,061601Tacoma
+Tacoma,061602,1208,061602Tacoma
+Tacoma,061700,1209,061700Tacoma
+Tacoma,061800,1210,061800Tacoma
+Tacoma,061900,1211,061900Tacoma
+Tacoma,062000,1212,062000Tacoma
+Tacoma,062300,1213,062300Tacoma
+Tacoma,062400,1214,062400Tacoma
+Tacoma,062500,1215,062500Tacoma
+Tacoma,062600,1216,062600Tacoma
+Fircrest,062801,1217,062801Fircrest
+Tacoma,062801,1218,062801Tacoma
+University Place,062801,1219,062801University Place
+Lakewood,062802,1220,062802Lakewood
+Pierce Co Urban,062802,1221,062802Pierce Co Urban
+Tacoma,062802,1222,062802Tacoma
+University Place,062802,1223,062802University Place
+Lakewood,062900,1224,062900Lakewood
+Tacoma,062900,1225,062900Tacoma
+Lakewood,063000,1226,063000Lakewood
+Pierce Co Urban,063000,1227,063000Pierce Co Urban
+Tacoma,063000,1228,063000Tacoma
+Tacoma,063100,1229,063100Tacoma
+Tacoma,063200,1230,063200Tacoma
+Pierce Co Rural,063300,1231,063300Pierce Co Rural
+Tacoma,063300,1232,063300Tacoma
+Tacoma,063400,1233,063400Tacoma
+Pierce Co Urban,063501,1234,063501Pierce Co Urban
+Tacoma,063501,1235,063501Tacoma
+Pierce Co Urban,063502,1236,063502Pierce Co Urban
+Tacoma,063502,1237,063502Tacoma
+Carbonado,070100,1238,070100Carbonado
+King Co Rural,070100,1239,070100King Co Rural
+Pierce Co Rural,070100,1240,070100Pierce Co Rural
+Pierce Co Urban,070100,1241,070100Pierce Co Urban
+Wilkeson,070100,1242,070100Wilkeson
+Bonney Lake,070203,1243,070203Bonney Lake
+Orting,070203,1244,070203Orting
+Pierce Co Rural,070203,1245,070203Pierce Co Rural
+Pierce Co Urban,070203,1246,070203Pierce Co Urban
+Pierce Co Rural,070204,1247,070204Pierce Co Rural
+Pierce Co Urban,070204,1248,070204Pierce Co Urban
+South Prairie,070204,1249,070204South Prairie
+Bonney Lake,070205,1250,070205Bonney Lake
+Buckley,070205,1251,070205Buckley
+Pierce Co Rural,070205,1252,070205Pierce Co Rural
+Pierce Co Urban,070205,1253,070205Pierce Co Urban
+South Prairie,070205,1254,070205South Prairie
+Carbonado,070206,1255,070206Carbonado
+Pierce Co Rural,070206,1256,070206Pierce Co Rural
+South Prairie,070206,1257,070206South Prairie
+Wilkeson,070206,1258,070206Wilkeson
+Buckley,070207,1259,070207Buckley
+Enumclaw,070207,1260,070207Enumclaw
+King Co Rural,070207,1261,070207King Co Rural
+Pierce Co Rural,070207,1262,070207Pierce Co Rural
+Auburn,070307,1263,070307Auburn
+Bonney Lake,070307,1264,070307Bonney Lake
+King Co Rural,070307,1265,070307King Co Rural
+King Co Urban,070307,1266,070307King Co Urban
+Pierce Co Rural,070307,1267,070307Pierce Co Rural
+Bonney Lake,070308,1268,070308Bonney Lake
+Pierce Co Urban,070308,1269,070308Pierce Co Urban
+Bonney Lake,070309,1270,070309Bonney Lake
+Pierce Co Rural,070309,1271,070309Pierce Co Rural
+Pierce Co Urban,070309,1272,070309Pierce Co Urban
+Bonney Lake,070310,1273,070310Bonney Lake
+Pierce Co Rural,070310,1274,070310Pierce Co Rural
+Pierce Co Urban,070310,1275,070310Pierce Co Urban
+Bonney Lake,070311,1276,070311Bonney Lake
+Pierce Co Rural,070311,1277,070311Pierce Co Rural
+Pierce Co Urban,070311,1278,070311Pierce Co Urban
+Bonney Lake,070312,1279,070312Bonney Lake
+Pierce Co Rural,070312,1280,070312Pierce Co Rural
+Pierce Co Urban,070312,1281,070312Pierce Co Urban
+Sumner,070312,1282,070312Sumner
+Bonney Lake,070313,1283,070313Bonney Lake
+Pierce Co Rural,070313,1284,070313Pierce Co Rural
+Pierce Co Urban,070313,1285,070313Pierce Co Urban
+Sumner,070313,1286,070313Sumner
+Pierce Co Rural,070314,1287,070314Pierce Co Rural
+Pierce Co Urban,070314,1288,070314Pierce Co Urban
+Sumner,070314,1289,070314Sumner
+Auburn,070315,1290,070315Auburn
+Bonney Lake,070315,1291,070315Bonney Lake
+Pierce Co Rural,070315,1292,070315Pierce Co Rural
+Pierce Co Urban,070315,1293,070315Pierce Co Urban
+Auburn,070316,1294,070316Auburn
+Bonney Lake,070316,1295,070316Bonney Lake
+Pierce Co Rural,070316,1296,070316Pierce Co Rural
+Pierce Co Urban,070316,1297,070316Pierce Co Urban
+Sumner,070316,1298,070316Sumner
+Pierce Co Rural,070401,1299,070401Pierce Co Rural
+Pierce Co Urban,070401,1300,070401Pierce Co Urban
+Sumner,070401,1301,070401Sumner
+Orting,070403,1302,070403Orting
+Pierce Co Rural,070403,1303,070403Pierce Co Rural
+Orting,070404,1304,070404Orting
+Pierce Co Rural,070404,1305,070404Pierce Co Rural
+Pierce Co Urban,070404,1306,070404Pierce Co Urban
+Edgewood,070703,1307,070703Edgewood
+Federal Way,070703,1308,070703Federal Way
+Fife,070703,1309,070703Fife
+Milton,070703,1310,070703Milton
+Pierce Co Urban,070703,1311,070703Pierce Co Urban
+Pierce Co Rural,071100,1312,071100Pierce Co Rural
+Pierce Co Urban,071100,1313,071100Pierce Co Urban
+Pierce Co Rural,071205,1314,071205Pierce Co Rural
+Pierce Co Urban,071205,1315,071205Pierce Co Urban
+Puyallup,071205,1316,071205Puyallup
+Pierce Co Rural,071206,1317,071206Pierce Co Rural
+Pierce Co Urban,071206,1318,071206Pierce Co Urban
+Puyallup,071206,1319,071206Puyallup
+Pierce Co Urban,071207,1320,071207Pierce Co Urban
+Puyallup,071207,1321,071207Puyallup
+Pierce Co Urban,071208,1322,071208Pierce Co Urban
+Puyallup,071208,1323,071208Puyallup
+Puyallup,071209,1324,071209Puyallup
+Pierce Co Rural,071210,1325,071210Pierce Co Rural
+Pierce Co Urban,071210,1326,071210Pierce Co Urban
+Puyallup,071210,1327,071210Puyallup
+Sumner,071210,1328,071210Sumner
+Pierce Co Urban,071304,1329,071304Pierce Co Urban
+Puyallup,071304,1330,071304Puyallup
+Pierce Co Rural,071305,1331,071305Pierce Co Rural
+Pierce Co Urban,071305,1332,071305Pierce Co Urban
+Pierce Co Rural,071306,1333,071306Pierce Co Rural
+Pierce Co Urban,071306,1334,071306Pierce Co Urban
+Pierce Co Urban,071307,1335,071307Pierce Co Urban
+Puyallup,071307,1336,071307Puyallup
+Pierce Co Urban,071309,1337,071309Pierce Co Urban
+Pierce Co Urban,071310,1338,071310Pierce Co Urban
+JBLM,071403,1339,071403JBLM
+Pierce Co Rural,071403,1340,071403Pierce Co Rural
+Pierce Co Urban,071403,1341,071403Pierce Co Urban
+Pierce Co Rural,071406,1342,071406Pierce Co Rural
+Pierce Co Urban,071406,1343,071406Pierce Co Urban
+Pierce Co Rural,071407,1344,071407Pierce Co Rural
+Pierce Co Urban,071407,1345,071407Pierce Co Urban
+Pierce Co Urban,071408,1346,071408Pierce Co Urban
+Pierce Co Urban,071409,1347,071409Pierce Co Urban
+Pierce Co Rural,071410,1348,071410Pierce Co Rural
+Pierce Co Urban,071410,1349,071410Pierce Co Urban
+Pierce Co Rural,071411,1350,071411Pierce Co Rural
+Pierce Co Urban,071411,1351,071411Pierce Co Urban
+JBLM,071503,1352,071503JBLM
+Pierce Co Urban,071503,1353,071503Pierce Co Urban
+Pierce Co Urban,071504,1354,071504Pierce Co Urban
+Pierce Co Rural,071505,1355,071505Pierce Co Rural
+Pierce Co Urban,071505,1356,071505Pierce Co Urban
+Pierce Co Urban,071506,1357,071506Pierce Co Urban
+Pierce Co Rural,071601,1358,071601Pierce Co Rural
+Pierce Co Urban,071601,1359,071601Pierce Co Urban
+Tacoma,071601,1360,071601Tacoma
+Pierce Co Rural,071602,1361,071602Pierce Co Rural
+Pierce Co Urban,071602,1362,071602Pierce Co Urban
+Tacoma,071602,1363,071602Tacoma
+Lakewood,071703,1364,071703Lakewood
+Pierce Co Urban,071703,1365,071703Pierce Co Urban
+Tacoma,071703,1366,071703Tacoma
+Lakewood,071704,1367,071704Lakewood
+Pierce Co Urban,071704,1368,071704Pierce Co Urban
+Tacoma,071704,1369,071704Tacoma
+Pierce Co Urban,071705,1370,071705Pierce Co Urban
+Tacoma,071705,1371,071705Tacoma
+JBLM,071706,1372,071706JBLM
+Lakewood,071706,1373,071706Lakewood
+Pierce Co Urban,071706,1374,071706Pierce Co Urban
+Pierce Co Urban,071707,1375,071707Pierce Co Urban
+Lakewood,071803,1376,071803Lakewood
+Pierce Co Urban,071803,1377,071803Pierce Co Urban
+Tacoma,071803,1378,071803Tacoma
+University Place,071803,1379,071803University Place
+Lakewood,071805,1380,071805Lakewood
+JBLM,071806,1381,071806JBLM
+Lakewood,071806,1382,071806Lakewood
+JBLM,071807,1383,071807JBLM
+Lakewood,071807,1384,071807Lakewood
+Lakewood,071808,1385,071808Lakewood
+Pierce Co Urban,071808,1386,071808Pierce Co Urban
+Tacoma,071808,1387,071808Tacoma
+Lakewood,071901,1388,071901Lakewood
+JBLM,071902,1389,071902JBLM
+Lakewood,071902,1390,071902Lakewood
+JBLM,072000,1391,072000JBLM
+Lakewood,072000,1392,072000Lakewood
+Pierce Co Urban,072000,1393,072000Pierce Co Urban
+Lakewood,072105,1394,072105Lakewood
+Pierce Co Urban,072105,1395,072105Pierce Co Urban
+Steilacoom,072105,1396,072105Steilacoom
+University Place,072105,1397,072105University Place
+Lakewood,072106,1398,072106Lakewood
+University Place,072106,1399,072106University Place
+Lakewood,072107,1400,072107Lakewood
+JBLM,072108,1401,072108JBLM
+Lakewood,072108,1402,072108Lakewood
+Pierce Co Rural,072108,1403,072108Pierce Co Rural
+Pierce Co Urban,072108,1404,072108Pierce Co Urban
+Dupont,072109,1405,072109Dupont
+Lakewood,072109,1406,072109Lakewood
+Pierce Co Rural,072109,1407,072109Pierce Co Rural
+Pierce Co Urban,072109,1408,072109Pierce Co Urban
+Steilacoom,072109,1409,072109Steilacoom
+University Place,072109,1410,072109University Place
+Pierce Co Urban,072111,1411,072111Pierce Co Urban
+Steilacoom,072111,1412,072111Steilacoom
+Lakewood,072112,1413,072112Lakewood
+Pierce Co Rural,072112,1414,072112Pierce Co Rural
+Pierce Co Urban,072112,1415,072112Pierce Co Urban
+Steilacoom,072112,1416,072112Steilacoom
+Fircrest,072305,1417,072305Fircrest
+Pierce Co Urban,072305,1418,072305Pierce Co Urban
+Tacoma,072305,1419,072305Tacoma
+University Place,072305,1420,072305University Place
+University Place,072307,1421,072307University Place
+Lakewood,072308,1422,072308Lakewood
+Pierce Co Rural,072308,1423,072308Pierce Co Rural
+Pierce Co Urban,072308,1424,072308Pierce Co Urban
+University Place,072308,1425,072308University Place
+Pierce Co Rural,072309,1426,072309Pierce Co Rural
+Tacoma,072309,1427,072309Tacoma
+University Place,072309,1428,072309University Place
+Tacoma,072310,1429,072310Tacoma
+University Place,072310,1430,072310University Place
+Fircrest,072311,1431,072311Fircrest
+Tacoma,072311,1432,072311Tacoma
+University Place,072311,1433,072311University Place
+Lakewood,072312,1434,072312Lakewood
+Tacoma,072312,1435,072312Tacoma
+University Place,072312,1436,072312University Place
+Fircrest,072313,1437,072313Fircrest
+Pierce Co Urban,072313,1438,072313Pierce Co Urban
+Tacoma,072313,1439,072313Tacoma
+University Place,072313,1440,072313University Place
+Pierce Co Rural,072405,1441,072405Pierce Co Rural
+Gig Harbor,072406,1442,072406Gig Harbor
+Pierce Co Rural,072406,1443,072406Pierce Co Rural
+Pierce Co Urban,072406,1444,072406Pierce Co Urban
+Gig Harbor,072407,1445,072407Gig Harbor
+Pierce Co Rural,072407,1446,072407Pierce Co Rural
+Pierce Co Urban,072407,1447,072407Pierce Co Urban
+Tacoma,072407,1448,072407Tacoma
+Gig Harbor,072408,1449,072408Gig Harbor
+Pierce Co Rural,072408,1450,072408Pierce Co Rural
+Pierce Co Urban,072408,1451,072408Pierce Co Urban
+Tacoma,072408,1452,072408Tacoma
+University Place,072408,1453,072408University Place
+Pierce Co Rural,072409,1454,072409Pierce Co Rural
+Pierce Co Rural,072410,1455,072410Pierce Co Rural
+University Place,072410,1456,072410University Place
+Kitsap Co Rural,072503,1457,072503Kitsap Co Rural
+Pierce Co Rural,072503,1458,072503Pierce Co Rural
+Pierce Co Urban,072503,1459,072503Pierce Co Urban
+Gig Harbor,072504,1460,072504Gig Harbor
+Kitsap Co Rural,072504,1461,072504Kitsap Co Rural
+Pierce Co Rural,072504,1462,072504Pierce Co Rural
+Pierce Co Urban,072504,1463,072504Pierce Co Urban
+Gig Harbor,072505,1464,072505Gig Harbor
+Kitsap Co Rural,072505,1465,072505Kitsap Co Rural
+Pierce Co Rural,072505,1466,072505Pierce Co Rural
+Pierce Co Urban,072505,1467,072505Pierce Co Urban
+Gig Harbor,072506,1468,072506Gig Harbor
+King Co Rural,072506,1469,072506King Co Rural
+Kitsap Co Rural,072506,1470,072506Kitsap Co Rural
+Pierce Co Rural,072506,1471,072506Pierce Co Rural
+Pierce Co Urban,072506,1472,072506Pierce Co Urban
+Tacoma,072506,1473,072506Tacoma
+Gig Harbor,072507,1474,072507Gig Harbor
+Pierce Co Urban,072507,1475,072507Pierce Co Urban
+Tacoma,072507,1476,072507Tacoma
+Kitsap Co Rural,072601,1477,072601Kitsap Co Rural
+Mason Co,072601,1478,072601Mason Co
+Pierce Co Rural,072601,1479,072601Pierce Co Rural
+Mason Co,072602,1480,072602Mason Co
+Pierce Co Rural,072602,1481,072602Pierce Co Rural
+Dupont,072603,1482,072603Dupont
+Mason Co,072603,1483,072603Mason Co
+Pierce Co Rural,072603,1484,072603Pierce Co Rural
+Thurston Co,072603,1485,072603Thurston Co
+DuPont,072800,1486,072800DuPont
+JBLM,072800,1487,072800JBLM
+Pierce Co Rural,072800,1488,072800Pierce Co Rural
+Thurston Co,072800,1489,072800Thurston Co
+JBLM,072901,1490,072901JBLM
+Lakewood,072901,1491,072901Lakewood
+Pierce Co Rural,072901,1492,072901Pierce Co Rural
+Pierce Co Urban,072901,1493,072901Pierce Co Urban
+DuPont,072903,1494,072903DuPont
+JBLM,072903,1495,072903JBLM
+Lakewood,072903,1496,072903Lakewood
+Pierce Co Rural,072903,1497,072903Pierce Co Rural
+Pierce Co Urban,072903,1498,072903Pierce Co Urban
+Steilacoom,072903,1499,072903Steilacoom
+JBLM,072905,1500,072905JBLM
+Pierce Co Rural,072905,1501,072905Pierce Co Rural
+DuPont,072906,1502,072906DuPont
+JBLM,072906,1503,072906JBLM
+Pierce Co Rural,072906,1504,072906Pierce Co Rural
+Pierce Co Urban,072906,1505,072906Pierce Co Urban
+Roy,072906,1506,072906Roy
+JBLM,072907,1507,072907JBLM
+Lakewood,072907,1508,072907Lakewood
+Pierce Co Rural,072907,1509,072907Pierce Co Rural
+Pierce Co Rural,073001,1510,073001Pierce Co Rural
+Pierce Co Urban,073001,1511,073001Pierce Co Urban
+Roy,073001,1512,073001Roy
+Pierce Co Rural,073005,1513,073005Pierce Co Rural
+Pierce Co Rural,073006,1514,073006Pierce Co Rural
+Pierce Co Urban,073108,1515,073108Pierce Co Urban
+Pierce Co Rural,073110,1516,073110Pierce Co Rural
+Pierce Co Urban,073110,1517,073110Pierce Co Urban
+Pierce Co Urban,073111,1518,073111Pierce Co Urban
+Pierce Co Rural,073113,1519,073113Pierce Co Rural
+Pierce Co Urban,073113,1520,073113Pierce Co Urban
+Pierce Co Rural,073114,1521,073114Pierce Co Rural
+Pierce Co Urban,073114,1522,073114Pierce Co Urban
+Pierce Co Rural,073115,1523,073115Pierce Co Rural
+Pierce Co Rural,073116,1524,073116Pierce Co Rural
+Pierce Co Rural,073117,1525,073117Pierce Co Rural
+Pierce Co Rural,073118,1526,073118Pierce Co Rural
+Pierce Co Rural,073119,1527,073119Pierce Co Rural
+Pierce Co Urban,073120,1528,073120Pierce Co Urban
+Pierce Co Urban,073121,1529,073121Pierce Co Urban
+Pierce Co Urban,073122,1530,073122Pierce Co Urban
+Pierce Co Rural,073123,1531,073123Pierce Co Rural
+Pierce Co Urban,073123,1532,073123Pierce Co Urban
+Pierce Co Rural,073124,1533,073124Pierce Co Rural
+Pierce Co Urban,073124,1534,073124Pierce Co Urban
+Pierce Co Rural,073125,1535,073125Pierce Co Rural
+Pierce Co Urban,073125,1536,073125Pierce Co Urban
+Pierce Co Urban,073126,1537,073126Pierce Co Urban
+Eatonville,073200,1538,073200Eatonville
+Pierce Co Rural,073200,1539,073200Pierce Co Rural
+Pierce Co Urban,073200,1540,073200Pierce Co Urban
+Auburn,073301,1541,073301Auburn
+Pacific,073301,1542,073301Pacific
+Pierce Co Urban,073301,1543,073301Pierce Co Urban
+Sumner,073301,1544,073301Sumner
+Pierce Co Rural,073302,1545,073302Pierce Co Rural
+Pierce Co Urban,073302,1546,073302Pierce Co Urban
+Puyallup,073302,1547,073302Puyallup
+Sumner,073302,1548,073302Sumner
+Puyallup,073404,1549,073404Puyallup
+Puyallup,073405,1550,073405Puyallup
+Pierce Co Urban,073406,1551,073406Pierce Co Urban
+Puyallup,073406,1552,073406Puyallup
+Sumner,073406,1553,073406Sumner
+Pierce Co Urban,073407,1554,073407Pierce Co Urban
+Puyallup,073407,1555,073407Puyallup
+Fife,073408,1556,073408Fife
+Pierce Co Rural,073408,1557,073408Pierce Co Rural
+Pierce Co Urban,073408,1558,073408Pierce Co Urban
+Puyallup,073408,1559,073408Puyallup
+Edgewood,073500,1560,073500Edgewood
+King Co Urban,073500,1561,073500King Co Urban
+Milton,073500,1562,073500Milton
+Pacific,073500,1563,073500Pacific
+Pierce Co Urban,073500,1564,073500Pierce Co Urban
+Sumner,073500,1565,073500Sumner
+Bremerton,080101,1566,080101Bremerton
+Kitsap Co Urban,080101,1567,080101Kitsap Co Urban
+Bremerton,080102,1568,080102Bremerton
+Kitsap Co Urban,080102,1569,080102Kitsap Co Urban
+Bremerton,080200,1570,080200Bremerton
+Kitsap Co Urban,080200,1571,080200Kitsap Co Urban
+Bremerton,080300,1572,080300Bremerton
+Kitsap Co Urban,080300,1573,080300Kitsap Co Urban
+Bainbridge Island,080400,1574,080400Bainbridge Island
+Bremerton,080400,1575,080400Bremerton
+Kitsap Co Rural,080400,1576,080400Kitsap Co Rural
+Kitsap Co Urban,080400,1577,080400Kitsap Co Urban
+Bremerton,080500,1578,080500Bremerton
+Kitsap Co Urban,080500,1579,080500Kitsap Co Urban
+Port Orchard,080500,1580,080500Port Orchard
+Bremerton,080600,1581,080600Bremerton
+Kitsap Co Urban,080600,1582,080600Kitsap Co Urban
+Bremerton,080700,1583,080700Bremerton
+Kitsap Co Urban,080700,1584,080700Kitsap Co Urban
+Bremerton,080800,1585,080800Bremerton
+Kitsap Co Rural,080800,1586,080800Kitsap Co Rural
+Bremerton,080900,1587,080900Bremerton
+Kitsap Co Rural,080900,1588,080900Kitsap Co Rural
+Kitsap Co Urban,080900,1589,080900Kitsap Co Urban
+Bremerton,081000,1590,081000Bremerton
+Kitsap Co Urban,081000,1591,081000Kitsap Co Urban
+Port Orchard,081000,1592,081000Port Orchard
+Bremerton,081100,1593,081100Bremerton
+Bremerton,081200,1594,081200Bremerton
+Bremerton,081400,1595,081400Bremerton
+Kitsap Co Urban,081400,1596,081400Kitsap Co Urban
+Port Orchard,081400,1597,081400Port Orchard
+Kitsap Co Rural,090101,1598,090101Kitsap Co Rural
+Kitsap Co Rural,090102,1599,090102Kitsap Co Rural
+Kitsap Co Urban,090102,1600,090102Kitsap Co Urban
+Kitsap Co Rural,090201,1601,090201Kitsap Co Rural
+Poulsbo,090201,1602,090201Poulsbo
+Poulsbo PUTA,090201,1603,090201Poulsbo PUTA
+Kitsap Co Rural,090202,1604,090202Kitsap Co Rural
+Poulsbo,090202,1605,090202Poulsbo
+Poulsbo PUTA,090202,1606,090202Poulsbo PUTA
+Kitsap Co Rural,090300,1607,090300Kitsap Co Rural
+Kitsap Co Rural,090400,1608,090400Kitsap Co Rural
+Kitsap Co Urban,090400,1609,090400Kitsap Co Urban
+Poulsbo,090400,1610,090400Poulsbo
+Poulsbo PUTA,090400,1611,090400Poulsbo PUTA
+Kitsap Co Rural,090501,1612,090501Kitsap Co Rural
+Kitsap Co Urban,090501,1613,090501Kitsap Co Urban
+Poulsbo,090501,1614,090501Poulsbo
+Poulsbo PUTA,090501,1615,090501Poulsbo PUTA
+Kitsap Co Rural,090502,1616,090502Kitsap Co Rural
+Poulsbo,090502,1617,090502Poulsbo
+Poulsbo PUTA,090502,1618,090502Poulsbo PUTA
+Bainbridge Island,090700,1619,090700Bainbridge Island
+Kitsap Co Rural,090700,1620,090700Kitsap Co Rural
+Bainbridge Island,090800,1621,090800Bainbridge Island
+Kitsap Co Rural,090800,1622,090800Kitsap Co Rural
+Bainbridge Island,090900,1623,090900Bainbridge Island
+Bainbridge Island,091000,1624,091000Bainbridge Island
+Kitsap Co Rural,091000,1625,091000Kitsap Co Rural
+Kitsap Co Urban,091000,1626,091000Kitsap Co Urban
+Bainbridge Island,091100,1627,091100Bainbridge Island
+Kitsap Co Rural,091100,1628,091100Kitsap Co Rural
+Kitsap Co Urban,091100,1629,091100Kitsap Co Urban
+Kitsap Co Rural,091201,1630,091201Kitsap Co Rural
+Kitsap Co Urban,091201,1631,091201Kitsap Co Urban
+Kitsap Co Rural,091203,1632,091203Kitsap Co Rural
+Kitsap Co Urban,091203,1633,091203Kitsap Co Urban
+Kitsap Co Rural,091204,1634,091204Kitsap Co Rural
+Kitsap Co Urban,091204,1635,091204Kitsap Co Urban
+Kitsap Co Rural,091301,1636,091301Kitsap Co Rural
+Kitsap Co Rural,091302,1637,091302Kitsap Co Rural
+Kitsap Co Urban,091302,1638,091302Kitsap Co Urban
+Bremerton,091400,1639,091400Bremerton
+Kitsap Co Rural,091400,1640,091400Kitsap Co Rural
+Kitsap Co Urban,091400,1641,091400Kitsap Co Urban
+Kitsap Co Rural,091500,1642,091500Kitsap Co Rural
+Kitsap Co Urban,091500,1643,091500Kitsap Co Urban
+Kitsap Co Rural,091600,1644,091600Kitsap Co Rural
+Kitsap Co Urban,091600,1645,091600Kitsap Co Urban
+Bainbridge Island,091700,1646,091700Bainbridge Island
+Kitsap Co Rural,091700,1647,091700Kitsap Co Rural
+Kitsap Co Urban,091700,1648,091700Kitsap Co Urban
+Kitsap Co Urban,091800,1649,091800Kitsap Co Urban
+Bremerton,091900,1650,091900Bremerton
+Kitsap Co Rural,091900,1651,091900Kitsap Co Rural
+Kitsap Co Urban,091900,1652,091900Kitsap Co Urban
+Bremerton,092000,1653,092000Bremerton
+Kitsap Co Rural,092000,1654,092000Kitsap Co Rural
+Kitsap Co Urban,092000,1655,092000Kitsap Co Urban
+Out of Region,092000,1656,092000Out of Region
+Bremerton,092100,1657,092100Bremerton
+Kitsap Co Rural,092100,1658,092100Kitsap Co Rural
+Kitsap Co Urban,092100,1659,092100Kitsap Co Urban
+Port Orchard,092100,1660,092100Port Orchard
+Bremerton,092200,1661,092200Bremerton
+Kitsap Co Rural,092200,1662,092200Kitsap Co Rural
+Kitsap Co Urban,092200,1663,092200Kitsap Co Urban
+Port Orchard,092200,1664,092200Port Orchard
+Kitsap Co Urban,092300,1665,092300Kitsap Co Urban
+Port Orchard,092300,1666,092300Port Orchard
+Kitsap Co Rural,092400,1667,092400Kitsap Co Rural
+Kitsap Co Urban,092400,1668,092400Kitsap Co Urban
+Port Orchard,092400,1669,092400Port Orchard
+Bremerton,092500,1670,092500Bremerton
+Kitsap Co Rural,092500,1671,092500Kitsap Co Rural
+Kitsap Co Urban,092500,1672,092500Kitsap Co Urban
+Port Orchard,092500,1673,092500Port Orchard
+Bainbridge Island,092600,1674,092600Bainbridge Island
+Kitsap Co Rural,092600,1675,092600Kitsap Co Rural
+Kitsap Co Urban,092600,1676,092600Kitsap Co Urban
+Kitsap Co Rural,092701,1677,092701Kitsap Co Rural
+Kitsap Co Urban,092701,1678,092701Kitsap Co Urban
+Kitsap Co Rural,092704,1679,092704Kitsap Co Rural
+Kitsap Co Rural,092801,1680,092801Kitsap Co Rural
+Kitsap Co Urban,092801,1681,092801Kitsap Co Urban
+Port Orchard,092801,1682,092801Port Orchard
+Kitsap Co Rural,092802,1683,092802Kitsap Co Rural
+Kitsap Co Rural,092803,1684,092803Kitsap Co Rural
+Pierce Co Rural,092803,1685,092803Pierce Co Rural
+Kitsap Co Rural,092901,1686,092901Kitsap Co Rural
+Pierce Co Rural,092901,1687,092901Pierce Co Rural
+Kitsap Co Rural,092902,1688,092902Kitsap Co Rural
+Kitsap Co Urban,092902,1689,092902Kitsap Co Urban
+Pierce Co Rural,092902,1690,092902Pierce Co Rural
+Kitsap Co Rural,940000,1691,940000Kitsap Co Rural
+Everett,940001,1692,940001Everett
+Federal Way,940001,1693,940001Federal Way
+King Co Rural,940001,1694,940001King Co Rural
+Marysville,940001,1695,940001Marysville
+Pierce Co Urban,940001,1696,940001Pierce Co Urban
+Snohomish Co Rural,940001,1697,940001Snohomish Co Rural
+Snohomish Co Urban,940001,1698,940001Snohomish Co Urban
+Tacoma,940001,1699,940001Tacoma
+Fife,940002,1700,940002Fife
+Milton,940002,1701,940002Milton
+Pierce Co Rural,940002,1702,940002Pierce Co Rural
+Pierce Co Urban,940002,1703,940002Pierce Co Urban
+Snohomish Co Rural,940002,1704,940002Snohomish Co Rural
+Tacoma,940002,1705,940002Tacoma
+Fife,940003,1706,940003Fife
+Pierce Co Rural,940003,1707,940003Pierce Co Rural
+Pierce Co Urban,940003,1708,940003Pierce Co Urban
+Fife,940004,1709,940004Fife
+Pierce Co Rural,940004,1710,940004Pierce Co Rural
+Pierce Co Urban,940004,1711,940004Pierce Co Urban
+Tacoma,940004,1712,940004Tacoma
+Pierce Co Urban,940005,1713,940005Pierce Co Urban
+Tacoma,940005,1714,940005Tacoma
+Pierce Co Rural,940006,1715,940006Pierce Co Rural
+Tacoma,940006,1716,940006Tacoma
+Fife,940007,1717,940007Fife
+Pierce Co Rural,940007,1718,940007Pierce Co Rural
+Tacoma,940007,1719,940007Tacoma
+Tacoma,940008,1720,940008Tacoma
+Edgewood,940009,1721,940009Edgewood
+Fife,940009,1722,940009Fife
+Milton,940009,1723,940009Milton
+Puyallup,940009,1724,940009Puyallup
+Edgewood,940010,1725,940010Edgewood
+Fife,940010,1726,940010Fife
+No Jurisdiction Assigned,940010,1727,940010No Jurisdiction Assigned
+Pierce Co Rural,940010,1728,940010Pierce Co Rural
+Pierce Co Urban,940010,1729,940010Pierce Co Urban
+Puyallup,940010,1730,940010Puyallup
+Sumner,940010,1731,940010Sumner
+Pierce Co Urban,940011,1732,940011Pierce Co Urban
+Tacoma,940011,1733,940011Tacoma
+Bainbridge Island,940100,1734,940100Bainbridge Island
+Kitsap Co Rural,940100,1735,940100Kitsap Co Rural
+Poulsbo,940100,1736,940100Poulsbo
+Poulsbo PUTA,940100,1737,940100Poulsbo PUTA
+Edmonds,990002,1738,990002Edmonds
+Everett,990002,1739,990002Everett
+Kitsap Co Rural,990002,1740,990002Kitsap Co Rural
+Kitsap Co Urban,990002,1741,990002Kitsap Co Urban
+Mukilteo,990002,1742,990002Mukilteo
+Out of Region,990002,1743,990002Out of Region
+Snohomish Co Rural,990002,1744,990002Snohomish Co Rural
+Snohomish Co Urban,990002,1745,990002Snohomish Co Urban
+Woodway,990002,1746,990002Woodway
+Bainbridge Island,990100,1747,990100Bainbridge Island
+Burien,990100,1748,990100Burien
+Des Moines,990100,1749,990100Des Moines
+Edmonds,990100,1750,990100Edmonds
+Federal Way,990100,1751,990100Federal Way
+King Co Rural,990100,1752,990100King Co Rural
+Kitsap Co Rural,990100,1753,990100Kitsap Co Rural
+Kitsap Co Urban,990100,1754,990100Kitsap Co Urban
+Normandy Park,990100,1755,990100Normandy Park
+Out of Region,990100,1756,990100Out of Region
+Pierce Co Rural,990100,1757,990100Pierce Co Rural
+Pierce Co Urban,990100,1758,990100Pierce Co Urban
+Seattle,990100,1759,990100Seattle
+Shoreline,990100,1760,990100Shoreline
+Snohomish Co Rural,990100,1761,990100Snohomish Co Rural
+Snohomish Co Urban,990100,1762,990100Snohomish Co Urban
+Tacoma,990100,1763,990100Tacoma
