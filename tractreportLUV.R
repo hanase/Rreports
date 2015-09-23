@@ -47,6 +47,12 @@ wrkdir <- getwd()
 comments <- read.table(file.path(wrkdir, 'data', paste0('commentsLUV1', geography, '.csv')), header=TRUE, sep='\t', 
 						allowEscapes = TRUE, as.is=TRUE)
 comment.header <- list(households="HH_Comment_40", jobs="Emp_Comment_40")
+refinements <- read.table(file.path(wrkdir, 'data', 'refinementsLUV.csv'), sep=',', header=TRUE)
+refinements <- cbind(refinements[,c(geo.id, 'Jobs_2040')], HH_2040=rowSums(refinements[,c('HH1_2_2040', 'HH3plus_2040')]))
+comments <- merge(comments, refinements, by=geo.id, all.x=TRUE)
+comments[!is.na(comments$Jobs_2040),comment.header$jobs] <- comments$Jobs_2040[!is.na(comments$Jobs_2040)]
+comments[!is.na(comments$HH_2040),comment.header$households] <- comments$HH_2040[!is.na(comments$HH_2040)]
+
 
 trim.leading <- function (x)  sub("^\\s+", "", x)
 
