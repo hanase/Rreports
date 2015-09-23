@@ -5,8 +5,8 @@
 
 ##### BEGIN USER SETTINGS ######
 #runs <- c(114, 113, "245mr1") # runs to include
-runs <- c(142, 138, 133, 113)
-runs <- c(142, 138)
+#runs <- c(142, 138, 133, 113)
+runs <- c(138,142,169,170,171)
 
 
 # Directory containing the runs with indicators. 
