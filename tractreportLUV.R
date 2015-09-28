@@ -4,7 +4,7 @@
 #
 
 ##### BEGIN USER SETTINGS ######
-runs <- c(142, 138) # runs to include
+runs <- c(173, 170, 142) # runs to include
 ci.run <- c() # which run has confidence intervals 
 			     # (only the last one is included in the table)
 
@@ -82,9 +82,9 @@ for (what in indicators) {
 		# Load indicators
 		data <- read.table(file.path(sim.dir, paste0(sim.prefix, run), 
 						'indicators', paste0(geography, '__table__', what, '.csv')), sep=',', header=TRUE)
-		sim[[what]][[run]] <- data[,2:ncol(data)]
+		sim[[what]][[run]] <- data[,2:ncol(data), drop=FALSE]
 		ids[[what]][[run]] <- data[,1]
-		sim[[what]][[run]] <- sim[[what]][[run]][order(ids[[what]][[run]]),]
+		sim[[what]][[run]] <- sim[[what]][[run]][order(ids[[what]][[run]]),,drop=FALSE]
 		ids[[what]][[run]] <- sort(ids[[what]][[run]])
 	}
 }
